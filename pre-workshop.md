@@ -6,7 +6,7 @@ nav_order: 2
 ##  Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Excel in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**18 minutes**<br>
+**18 minutes:**<br>
 - OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
 
 - Why Canva: [“What is Canva and why should you use it”](https://www.youtube.com/watch?v=n1nt7uOh008){:target="_blank"}(1 min)
