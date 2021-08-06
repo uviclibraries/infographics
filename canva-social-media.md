@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6-Social Media Slides
-nav_order: 2
+nav_order: 7
 parent: Workshop Activities
 ---
 # Social Media Slides
