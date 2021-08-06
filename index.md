@@ -25,5 +25,7 @@ Participants will be able to know and do the following by the end of this worksh
 6. Determine the best order and flow of information to create a visual narrative integrating the key tables, charts, and graphics.
 7. Be able to use infographic software and associated templates to organize and present tables, charts, and graphical representations in a narrative that is aesthetically pleasing and compelling.
 8. Be aware of the different mediums available to publish and share infographics: Poster, hand-out, website, and social media.
- 
+
+[Photo credit](https://www.flickr.com/photos/dashburst/8448339735/in/photolist-kee8qu-dSxX4V){:target="_blank"}
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
