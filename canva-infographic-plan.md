@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 ---
 # Planning your Infographic and Gathering Data
-1. For this exercise, you can use your own research or use data from a [research article titled Brief](bit.ly/dsc-infographic-meditate){:target="_blank"}, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators, in order to build skills before you start work on your own infographic.
+1. For this exercise, you can use your own research or use data from a [research article titled Brief](https://www.bit.ly/dsc-infographic-meditatebit.ly/dsc-infographic-meditate){:target="_blank"}, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators, in order to build skills before you start work on your own infographic.
 
 2. Determine which facts in the article are essential and which can be excluded in order to tell a story in a compelling yet concise way. In the meditation article (or your research), some facts & statistics that look interesting are:<br>
   - a.______________________________________________________________________________________________________________________
