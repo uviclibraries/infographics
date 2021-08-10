@@ -5,21 +5,21 @@ nav_order: 7
 parent: Workshop Activities
 ---
 # Social Media Slides
-Using infographic slides has become frequently used means of communicating via social media platforms such as Instagram. A recent article about this can be read here (which references the use of Canva), if you are unfamiliar with this: https://www.washingtonpost.com/technology/2020/08/15/instagram-race-activism-slideshow-graphics/ and if you can’t access the article, here are some direct examples from Instagram that are linked in the article: 
-https://www.instagram.com/p/CCVso-aHGuo/
-https://www.instagram.com/p/CCbb8bWAQNk/
-https://www.instagram.com/p/CB8bWrbnWeW/ 
+Using infographic slides has become frequently used means of communicating via social media platforms such as Instagram. A recent [article about this can be read here](https://www.washingtonpost.com/technology/2020/08/15/instagram-race-activism-slideshow-graphics/){:target="_blank"} (which references the use of Canva), if you are unfamiliar with this and if you can’t access the article, here are some direct examples from Instagram that are linked in the article: 
+  - [https://www.instagram.com/p/CCVso-aHGuo/](https://www.instagram.com/p/CCVso-aHGuo/){:target="_blank"}
+  - [https://www.instagram.com/p/CCbb8bWAQNk/](https://www.instagram.com/p/CCbb8bWAQNk/){:target="_blank"}
+  - [https://www.instagram.com/p/CB8bWrbnWeW/](https://www.instagram.com/p/CB8bWrbnWeW/){:target="_blank"}
 In  this exercise, we will go over the use of Canva for creating these slides (using the same data from the previous activities and building off the skills and graphics from those activities), and how to upload them to Instagram. Note: in many cases, you may want to have much more text than this activity uses in each page of your graphic (as is shown in some of the examples linked above). This activity only uses a small amount of text to keep things simple, but feel free to use more text for your own projects. Just be sure to test your infographics for readability. The nice thing about a regular Instagram post (rather than an Instagram Story) is that the slides can be zoomed in so that people can read smaller text. If you have any questions, please ask, and don’t forget to have fun!
 
 1. From the Canva home page, click on the teal **Create a design** button on the top right of the screen. Start typing Instagram and click on Instagram Post when it comes up  as one of the  options in the drop down results.
 
-2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see right).
+2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see image).
 
-3. This exercise will use the template in the example to the right and put facts and statistics from this article on Meditation: bit.ly/dsc-infographic-meditate  into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
+3. This exercise will use the template in the example to the right and put facts and statistics from [this article on Meditation](bit.ly/dsc-infographic-meditate){:target="_blank"}  into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 
 4. **Double click** on the text in the first page, “Tips on...”, and replace the text with, **Can Short Meditation Benefit Beginners?**  And the small text below it can be replaced with: **With 13 minutes per day**. 
 
-5. Click on Text in the left toolbar and then click on Add a subheading. In the text box that is added to your slide, write: **Source: bit.ly/dsc-infographic-meditate** and then select the text to make the following changes to it. **Change the font size to 18**, set it to **Bold**, and change the color to one of the document colors. Move it into the top or bottom of the page. If you move it into the bottom, you will need to delete one of the clipart items so the text is readable
+5. Click on Text in the left toolbar and then click on Add a subheading. In the text box that is added to your slide, write: **[Source](bit.ly/dsc-infographic-meditate)**{:target="_blank"} and then select the text to make the following changes to it. **Change the font size to 18**, set it to **Bold**, and change the color to one of the document colors. Move it into the top or bottom of the page. If you move it into the bottom, you will need to delete one of the clipart items so the text is readable
 
 6. The rest of the infographic will only require three more pages. Scroll down to select which three you want to keep and delete the others by **clicking on the little trash** can icon just above each page. For this example, we have kept one of each colour. You can also use the arrows above each page to change the order of the pages if you would like the pages to be in a different order, and add page titles at the top left of each page to keep things organized for more complex projects.
 
