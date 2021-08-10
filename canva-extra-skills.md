@@ -32,7 +32,7 @@ When you get into the individual image page, the image you’ve chosen will have
   - Unlike the graphic elements you can use in Canva, these images you upload will not have the option to change colours to match your document, so keep that in mind when choosing them.
 
 4. We used Bit.Ly to create a short URL for our article and that can be useful to link back to your source without taking up a lot of space or having an obnoxiously long link for someone to remember. Here’s how:
-  - Open a new tab in your web browser and go to: [bitly.com](bitly.com){:target="_blank"}
+  - Open a new tab in your web browser and go to: [bitly.com](https://bitly.com/){:target="_blank"}
   - Hopefully, you still have your article or the article you are basing your infographic on. Paste the URL for your article into the Shorten your link field on the Bitly web page and then press the blue Shorten button (see below).
   - You will then see another box appear below with a very short URL that will link to the very long URL that you pasted above (see below). It will be in the form of, https://bit.ly/Sh0Rt  Press the blue Copy button.
   - Go back to your Canva tab in your web browser and paste in: bit.ly/your-short-url-here (make sure to delete the leading https:// as it’s not needed here (see the top of the previous page for an example).
