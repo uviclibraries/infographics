@@ -9,7 +9,6 @@ parent: Workshop Activities
 
 
 2. Determine which facts in the article are essential and which can be excluded in order to tell a story in a compelling yet concise way. In the meditation article (or your research), some facts & statistics that look interesting are:<br>
-  
 a)___________________________________________________________
 
 
@@ -35,7 +34,6 @@ b)_______________________________________________________
 c)_______________________________________________________
 
 d)_______________________________________________________ 
-
 4. Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
 
 a)__________________________________
@@ -43,7 +41,6 @@ a)__________________________________
 b)__________________________________
 
 c)__________________________________
-
 5. Determine the best order and flow of information to create a visual narrative integrating the key tables, charts, and graphics. The order the information is presented in the research may not be the best way to present it in an infographic. See the graphic to the right for some ideas for flow (e.g., alphabetic order, timeline order, comparison, process flow).  Take your points from Step 3 and put them in your chosen order of flow here (or sketch them roughly in the blank space below):<br>
 
 a)__________________________________
@@ -53,7 +50,6 @@ b)__________________________________
 c)__________________________________
 
 d)__________________________________
-
 
 6. If you haven’t already, use the workshop activities to practice building an infographic in Canva.
 
