@@ -14,7 +14,7 @@ Now that you have a title for your infographic, you start to add some facts and 
   - You can put the first box where you want it, then put the second box right next to it with the edges touching, and then use your arrow keys on your keyboard to nudge it two or three steps away. Then put the third box touching the next box and move it the same number of spaces.
 
 2. **Add a bar chart**:
- <img src="images//infographics-charts-02.png" style="float:right;width:200px;height:200px;" alt="blue bar graph">
+ <img src="images//infographics-charts-02.png" style="float:right;width:180px;height:180px;" alt="blue bar graph">
  - Click on **Elements** in the left toolbar. Scroll down to **Charts** and click on **See All**. Click on the blue upright bar graph. 
   - While the Chart is selected, click on the **blue square colour icon** in the top left next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same blue in the infographic. If you mouse over the other tiles, you will see the hex numbers come up, you want the one that is #537ea8
 ![Editing toolbar](/images/infographics-charts-03.png)<img src="images//infographics-charts-04.png" style="float:right" alt="Bar chart example table">
