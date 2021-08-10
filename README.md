@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Infographics with Canva
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/infographics/
