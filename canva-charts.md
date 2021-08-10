@@ -16,8 +16,8 @@ Now that you have a title for your infographic, you start to add some facts and 
 2. **Add a bar chart**:
  <img src="images//infographics-charts-02.png" style="float:right;width:100px;height:100px;" alt="blue bar graph">
  - Click on **Elements** in the left toolbar. Scroll down to **Charts** and click on **See All**. Click on the blue upright bar graph. 
-  - While the Chart is selected, click on the **blue square colour icon** in the top left next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same blue in the infographic. If you mouse over the other tiles, you will see the hex numbers come up, you want the one that is #537ea8.<br>
-![Editing toolbar](/images/infographics-charts-03.png)<img src="images//infographics-charts-04.png" style="float:right;width:200px;height:200px;" alt="Bar chart example table">
+  - While the Chart is selected, click on the **blue square colour icon** in the top left next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same blue in the infographic.<img src="images//infographics-charts-04.png" style="float:right;width:200px;height:200px;" alt="Bar chart example table">If you mouse over the other tiles, you will see the hex numbers come up, you want the one that is #537ea8.<br>
+![Editing toolbar](/images/infographics-charts-03.png)
 ![Demonstration of adding a bar chart](/images/infographics-charts-05.gif)
   - Click on the **Edit** button to bring up the grid in the left sidebar, where you can fill in the information for your bar graphs, and the graph will automatically update. You can enter: 39.2, 46.2 into the second columns for Item 1 and 2, and erase the rest of the information. For this example, the hanging auto-generated text doesn’t fit well with the squares in the template, so we are going to leave it out of the chart information and enter it into text boxes instead for a nicer look. (see above for side by side comparison)
 ![Demonstration of adding in the data of the Bar chart](/images/infographics-charts-06.gif)
