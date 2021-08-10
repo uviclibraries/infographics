@@ -25,7 +25,7 @@ Let’s start to create an infographic using a Canva template. Remember that you
 5. You can choose to either move the cloud on the right-middle so that it is no longer blocking the question mark in the title or right-click on it and click “send backward” to move in a layer behind the text box. See which one you like the look of best. 
 6. Resize the cloud behind “Short” so that it is bigger. Do this by clicking on it once, dragging the round, white handles until it is bigger. Then drag it back up into position to highlight the importance of the word “Short”. 
 ![Demonstration of Step 6, Resize and positioning the cloud](/images/infographics-template-07.gif)
-<img src="images//infographics-template-08.png" style="float:right;width:180px;height:280px;">
+<img src="images//infographics-template-08.png" style="float:right;width:180px;height:380px;">
 7. The next step is to clean up the design a little to make some space for more elements. We don’t want to erase everything and lose all our nice formatting, though, so we will just delete some of it. You can see to the right that we have kept some elements for reference. This helps give you space to test out new ideas. 
 
 Great Job! You are ready to move on to the next activity of Bar Charts & Text
