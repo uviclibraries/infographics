@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images//infographics-logo.png" style="float:right;width:180px;height:180px;"> 
+<img src="images//infographics-logo.png" style="float:right;width:200px;height:200px;"> 
 
 # Introduction to Infographics
 
