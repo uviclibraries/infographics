@@ -32,9 +32,9 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 8. Click on the individual text labels over the bar chart and **change the font** to match the secondary font in this theme (Open Sans).
 <img src="images//infographics-media-10.png" style="float:right;width:200px;height:140px;" alt="colour tiles">
 9. Click on the bar chart and change the colour to match the colour scheme of the theme **by clicking on the colour tile** in the top toolbar and then choosing a document colour (make sure it’s not the bright blue recently added from the bar chart, though).   
-<img src="images//infographics-media-11.png" style="float:right;width:200px;height:200px;" alt="infographic example of the 15% less stress text">
-10. Change the heading text to **15% less stress** and delete the other text. Feel free to move things around until you like where things are situated and resize text as needed. 
 
+10. Change the heading text to **15% less stress** and delete the other text. Feel free to move things around until you like where things are situated and resize text as needed. 
+<img src="images//infographics-media-11.png" style="float:right;width:200px;height:200px;" alt="infographic example of the 15% less stress text">
 11. For the next page, change the header text to **40% better mood** and delete the other text. You may want to add more graphics to this page. 
 
 12. Click on **Elements** in the left toolbar and search for **Abstract** to find clipart that is similar to the artwork featured in this them (alternatively, you can rework this whole theme and go with a completely different look -- just remember that infographics are most effective when they have a cohesive look to them). Find some graphics and click on them to add them to the page and remember to change the colors to match the colour scheme. 
