@@ -30,9 +30,9 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](bit.ly/dsc-infographic-meditate){:target="_blank"}
 
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
-<img src="images//infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="More option on navigation bar"> 
 - Click on the black **More** button on the bottom of the left navigation bar (see image).
   - Click on the **white QR Code icon**.
+ <img src="images//infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="More option on navigation bar"> 
   - Paste your shortened Bitly URL into the while field that appears, and then click on the teal **Generate code button**.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
 ![Demonstration of step 4: adding a QR code](/images/infographics-graphics-12.gif)
