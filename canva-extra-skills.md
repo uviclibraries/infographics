@@ -23,10 +23,10 @@ Here are a few added Canva skills and tip to expand your knowledge:
 
 3. **When you can’t find the free clipart you need on Canva (an example search for a vector map of Canada with a transparent background)**:
 - Open a new tab & go to [Pixabay](pixabay.com){:target="_blank"} to find free licensed images and drawings.
-<img src="images//infographics-extra-04.png" style="float:right" alt="map example"> 
 - In the search box type, **map canada**, and press Enter. Click on the map you’d like to use (look for one with a blank grey background if you want it to be transparent).
 When you get into the individual image page, the image you’ve chosen will have a checkered grey background to indicate that it will be transparent once added to your document
-(see image). 
+(see image).
+<img src="images//infographics-extra-04.png" style="float:right" alt="map example"> 
   - Click on the green Free Download button on the right of the screen and select the highest resolution PNG file. Note where your browser saves the image file.
   - Go back to Canva, and click on the black Uploads button to the left of the screen. 
   - Next click on the green Upload an image or video button.
