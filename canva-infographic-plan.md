@@ -19,8 +19,8 @@ parent: Workshop Activities
 3. Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
- <img src="images//infographics-planning-03.png" style="float:right;width:100px;height:200px;" alt="graphic example">
   - c.______________________________________________________________________________________________________________________
+  <img src="images//infographics-planning-03.png" style="float:right;width:100px;height:200px;" alt="graphic example">
   - d.______________________________________________________________________________________________________________________
 4. Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
   - a.______________________________________________________________________________________________________________________
