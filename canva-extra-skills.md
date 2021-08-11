@@ -15,13 +15,14 @@ Here are a few added Canva skills and tip to expand your knowledge:
   - Click once on a picture. The picture will appear in your infographic.
   - Grab a round, white handle at one of the corners of the photo to resize the image while maintaining aspect ratio. 
   - To crop the image, hold down the shift key while dragging the round corner handles. Once the image is cropped down to the size you want, you can also double click on it and drag the image around inside the cropped window to get it situated the way you want (see photo). 
-
+![Demonstration of cropping an image](/images/infographics-extra-03.gif)
 2. **Tips for searching for clipart in Canva**:
   - If you are searching for graphic elements and none of the results that come up are free, try thinking of different words to use for your searches. 
   - For example: a search in Canva for “syringe” brings up only one free option, but a search for “needle” brings up an additional result. 
 
 3. **When you can’t find the free clipart you need on Canva (an example search for a vector map of Canada with a transparent background)**:
 - Open a new tab & go to [Pixabay](pixabay.com){:target="_blank"} to find free licensed images and drawings.
+<img src="images//infographics-extra-04.png" style="float:right" alt="map example"> 
 - In the search box type, **map canada**, and press Enter. Click on the map you’d like to use (look for one with a blank grey background if you want it to be transparent).
 When you get into the individual image page, the image you’ve chosen will have a checkered grey background to indicate that it will be transparent once added to your document
 (see image). 
@@ -35,8 +36,10 @@ When you get into the individual image page, the image you’ve chosen will have
 4. We used Bit.Ly to create a short URL for our article and that can be useful to link back to your source without taking up a lot of space or having an obnoxiously long link for someone to remember. Here’s how:
   - Open a new tab in your web browser and go to: [bitly.com](https://bitly.com/){:target="_blank"}
   - Hopefully, you still have your article or the article you are basing your infographic on. Paste the URL for your article into the Shorten your link field on the Bitly web page and then press the blue Shorten button (see below).
-  - You will then see another box appear below with a very short URL that will link to the very long URL that you pasted above (see below). It will be in the form of, https://bit.ly/Sh0Rt  Press the blue Copy button.
-  - Go back to your Canva tab in your web browser and paste in: bit.ly/your-short-url-here (make sure to delete the leading https:// as it’s not needed here (see the top of the previous page for an example).
+![Shortened URL](/images/infographics-extra-06.png)
+- You will then see another box appear below with a very short URL that will link to the very long URL that you pasted above (see below). It will be in the form of, https://bit.ly/Sh0Rt  Press the blue Copy button.
+![Copy button Bitly shortener](/images/infographics-extra-07.png)
+- Go back to your Canva tab in your web browser and paste in: bit.ly/your-short-url-here (make sure to delete the leading https:// as it’s not needed here (see the top of the previous page for an example).
   - Note: bit.ly also allows you to create custom links if you want.
 
 Great Job!
