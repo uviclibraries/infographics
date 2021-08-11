@@ -15,16 +15,16 @@ parent: Workshop Activities
   - d.______________________________________________________________________________________________________________________
   - e.______________________________________________________________________________________________________________________
   - f.______________________________________________________________________________________________________________________
-3. <img src="images//infographics-planning-02.png" style="float:right;width:220px;height:220px;" alt="Circular graph"> Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
+3. <img src="images//infographics-planning-02.png" style="float:right;width:200px;height:200px;" alt="Circular graph"> Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
   - d.______________________________________________________________________________________________________________________
-4. <img src="images//infographics-planning-03.png" style="float:right;width:150px;height:250px;" alt="Circular graph">Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
+4. <img src="images//infographics-planning-03.png" style="float:right;width:150px;height:250px;" alt="graphic example">Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
-<img src="images//infographics-planning-04.png" style="float:right;width:400px;height:600px;" alt="Circular graph">
+<img src="images//infographics-planning-04.png" style="float:right;width:400px;height:600px;" alt="Infographic example">
 5. Determine the best order and flow of information to create a visual narrative integrating the key tables, charts, and graphics. The order the information is presented in the research may not be the best way to present it in an infographic. See the graphic to the right for some ideas for flow (e.g., alphabetic order, timeline order, comparison, process flow). Take your points from Step 3 and put them in your chosen order of flow here (or sketch them roughly in the blank space below):<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
