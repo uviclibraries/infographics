@@ -6,11 +6,12 @@ parent: Workshop Activities
 ---
 # Extra Skills with Canva
 Here are a few added Canva skills and tip to expand your knowledge:
-
+<img src="images//infographics-extra-01.png" style="float:right" alt="More button with icon options"> 
 1. **Add a photo to your project using Canva’s Pixabay option**:
   - Click on the black More button on the bottom of the left navigation bar (see photo).
   - Click on the green Pixabay icon. 
   - In the search box that appeared at the top, type in a keyword for your search, and press Enter. Note: all Pixabay photos are free for commercial use with no attribution required. If attribution is required for your project, you can find details by mousing over the image in the search results and clicking on the three dots that appear in the upper right corner of each image (see photo).
+
   - Click once on a picture. The picture will appear in your infographic.
   - Grab a round, white handle at one of the corners of the photo to resize the image while maintaining aspect ratio. 
   - To crop the image, hold down the shift key while dragging the round corner handles. Once the image is cropped down to the size you want, you can also double click on it and drag the image around inside the cropped window to get it situated the way you want (see photo). 
