@@ -15,7 +15,7 @@ parent: Workshop Activities
   - d.______________________________________________________________________________________________________________________
   - e.______________________________________________________________________________________________________________________
   - f.______________________________________________________________________________________________________________________
-3. <img src="images//infographics-planning-02.png" style="float:right;width:200px;height:200px;" alt="Circular graph"> Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
+3. <img src="images//infographics-planning-02.png" style="float:right;width:180px;height:180px;" alt="Circular graph"> Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
