@@ -20,7 +20,7 @@ parent: Workshop Activities
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
   - d.______________________________________________________________________________________________________________________
-4. <img src="images//infographics-planning-03.png" style="float:right;width:150px;height:250px;" alt="graphic example">Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
+4. <img src="images//infographics-planning-03.png" style="float:right;width:130px;height:230px;" alt="graphic example">Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
