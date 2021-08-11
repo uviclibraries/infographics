@@ -47,5 +47,5 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon what you’ve learned here.
 
 Here is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
-<img src="images//infographics-graphics-14.png" style="float:left;width:180px;height:280px;" alt="Example with QR code."> 
+<img src="images//infographics-graphics-16.gif" style="float:left;width:180px;height:280px;" alt="Example with QR code."> 
 [NEXT STEP: Extra Skills](canva-extra-skills.html){: .btn .btn-blue }
