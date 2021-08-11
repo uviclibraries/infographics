@@ -47,6 +47,6 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 15. Transfer the images to your phone to share on Instagram. Tip: when sharing, make sure the pages are selected in the corre
 
 16. ct order (see numbers in the thumbnails in the Instagram screenshot below). 
-![Final project pages](/images/infographics-media-14.jpeg)
+![Final project pages](/images/infographics-media-15.jpeg)
 
 [NEXT STEP: Planning an Infographic](canva-infographic-plan.html){: .btn .btn-blue }
