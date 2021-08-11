@@ -15,7 +15,7 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 1. From the Canva home page, click on the teal **Create a design** button on the top right of the screen. Start typing Instagram and click on Instagram Post when it comes up  as one of the  options in the drop down results.
 
 2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see image).
-<img src="images//infographics-media-02.png" style="float:right;width:200px;height:280px;" alt="Template design"> 
+<img src="images//infographics-media-02.png" style="float:right;width:220px;height:280px;" alt="Template design"> 
 ![Demonstration of selecting the template and getting started](/images/infographics-extra-03.gif)
 3. This exercise will use the template in the example to the right and put facts and statistics from [this article on Meditation](https://www.bit.ly/dsc-infographic-meditate){:target="_blank"}  into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 
