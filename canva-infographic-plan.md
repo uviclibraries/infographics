@@ -24,8 +24,8 @@ parent: Workshop Activities
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
-<img src="images//infographics-planning-04.png" style="float:right;width:400px;height:600px;" alt="Infographic example">
-5. Determine the best order and flow of information to create a visual narrative integrating the key tables, charts, and graphics. The order the information is presented in the research may not be the best way to present it in an infographic. See the graphic to the right for some ideas for flow (e.g., alphabetic order, timeline order, comparison, process flow). Take your points from Step 3 and put them in your chosen order of flow here (or sketch them roughly in the blank space below):<br>
+
+5. <img src="images//infographics-planning-04.png" style="float:right;width:400px;height:600px;" alt="Infographic example">Determine the best order and flow of information to create a visual narrative integrating the key tables, charts, and graphics. The order the information is presented in the research may not be the best way to present it in an infographic. See the graphic to the right for some ideas for flow (e.g., alphabetic order, timeline order, comparison, process flow). Take your points from Step 3 and put them in your chosen order of flow here (or sketch them roughly in the blank space below):<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
