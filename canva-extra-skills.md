@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Extra Skills with Canva
 Here are a few added Canva skills and tip to expand your knowledge:
-<img src="images//infographics-extra-01.png" style="float:right;width:200px;height:300px;" alt="More button with icon options"> 
+<img src="images//infographics-extra-01.png" style="float:right;width:200px;height:280px;" alt="More button with icon options"> 
 1. **Add a photo to your project using Canva’s Pixabay option**:
   - Click on the black More button on the bottom of the left navigation bar (see photo).
   - Click on the green Pixabay icon. 
