@@ -10,11 +10,11 @@ Using infographic slides has become frequently used means of communicating via s
   - [https://www.instagram.com/p/CCbb8bWAQNk/](https://www.instagram.com/p/CCbb8bWAQNk/){:target="_blank"}
   - [https://www.instagram.com/p/CB8bWrbnWeW/](https://www.instagram.com/p/CB8bWrbnWeW/){:target="_blank"}<br>
 In  this exercise, we will go over the use of Canva for creating these slides (using the same data from the previous activities and building off the skills and graphics from those activities), and how to upload them to Instagram. Note: in many cases, you may want to have much more text than this activity uses in each page of your graphic (as is shown in some of the examples linked above). This activity only uses a small amount of text to keep things simple, but feel free to use more text for your own projects. Just be sure to test your infographics for readability. The nice thing about a regular Instagram post (rather than an Instagram Story) is that the slides can be zoomed in so that people can read smaller text. If you have any questions, please ask, and don’t forget to have fun!
-
+<img src="images//infographics-media-01.png" style="float:right;width:200px;height:240px;" alt="Search bar for template"> 
 1. From the Canva home page, click on the teal **Create a design** button on the top right of the screen. Start typing Instagram and click on Instagram Post when it comes up  as one of the  options in the drop down results.
 
 2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see image).
-
+<img src="images//infographics-media-02.png" style="float:right;width:200px;height:280px;" alt="Template design"> 
 3. This exercise will use the template in the example to the right and put facts and statistics from [this article on Meditation](https://www.bit.ly/dsc-infographic-meditate){:target="_blank"}  into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 
 4. **Double click** on the text in the first page, “Tips on...”, and replace the text with, **Can Short Meditation Benefit Beginners?**  And the small text below it can be replaced with: **With 13 minutes per day**. 
