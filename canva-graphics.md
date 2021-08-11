@@ -14,10 +14,10 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - The mug with the wisp of steam on it suits the purpose but the shading doesn’t match the style of the other graphic elements of the infographic -- which is key to a cohesive look. But because of the ability to change colours we can get rid of it. Drag the image into the second orange box. Click on the tan tile icons in the top toolbar to bring up the mug palette (see below).![Colour palette](/images/infographics-graphics-01.png)<br> Choose the same blue as is used in the rest of the design and do this for the other tan tiles until the mug and saucer are solid blue. For the darkest tile, change it to white for the steam. See right for the before and after. 
 ![Demonstration of adding a mug and modifying the details](/images/infographics-graphics-05.gif)
 - For the last orange box, we are going to go back into **Elements** and search for **brain** and look for the graphic to the right. Add it to the last orange box, resize it, and change the head to blue, leaving the oval inside white. 
-  - Use text boxes to **add the text** to your graphics:
+ <img src="images//infographics-graphics-07.png" style="float:right" alt="45% better mood and 15% better short term memory graphics"> 
+ - Use text boxes to **add the text** to your graphics:
         - 45% better mood
         - 15% better short term memory
-![45% better mood graphic](/images/infographics-graphics-06.png)![15% better short term memory graphic](/images/infographics-graphics-07.png)
 ![Demonstration of adding text to graphics](/images/infographics-graphics-08.gif)
 2. **The Birds and the Trees**:
   - You can move the second little bird around to another spot on the infographic. Either on top of one of the boxes or a cloud, for instance. If you deleted the bird earlier, you can duplicate the other bird by selecting it and clicking the **Duplicate** button.
