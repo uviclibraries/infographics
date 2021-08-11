@@ -11,7 +11,7 @@ Using infographic slides has become frequently used means of communicating via s
   - [https://www.instagram.com/p/CB8bWrbnWeW/](https://www.instagram.com/p/CB8bWrbnWeW/){:target="_blank"}<br>
 In  this exercise, we will go over the use of Canva for creating these slides (using the same data from the previous activities and building off the skills and graphics from those activities), and how to upload them to Instagram. Note: in many cases, you may want to have much more text than this activity uses in each page of your graphic (as is shown in some of the examples linked above). This activity only uses a small amount of text to keep things simple, but feel free to use more text for your own projects. Just be sure to test your infographics for readability. The nice thing about a regular Instagram post (rather than an Instagram Story) is that the slides can be zoomed in so that people can read smaller text. If you have any questions, please ask, and don’t forget to have fun!
 
-<img src="images//infographics-media-01.png" style="float:right;width:200px;height:180px;" alt="Search bar for template"> 
+<img src="images//infographics-media-01.png" style="float:right;width:210px;height:140px;" alt="Search bar for template"> 
 1. From the Canva home page, click on the teal **Create a design** button on the top right of the screen. Start typing Instagram and click on Instagram Post when it comes up  as one of the  options in the drop down results.
 
 2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see image).
@@ -30,8 +30,8 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 7. For this next page we are going to save some time and copy some work from a previous activity. If you go to the Canva homepage (you should already have a tab open for this, but if not, you can **click on Home** in the upper left corner), from there you will see in the left menu bar a section called **All Your Designs**. Click on this to bring up all your past Canva projects. Look for the infographic you made in the earlier activity. (If you skipped past the other activities, instructions for creating this bar chart can be found in Activity #2. You can build a similar bar chart in the Instagram Post instead.) Click on the individual elements of the bar chart while holding down the **Shift key** until you have selected them (bar chart, text labels) and then **right click** on them to bring up a menu and **click on Copy**, or Ctrl+C or Cmd+C to Copy them. Then go back into your new Instagram project and paste the bar chart into it. And then **drag the handles on the corners** to resize it larger.
 
 8. Click on the individual text labels over the bar chart and **change the font** to match the secondary font in this theme (Open Sans).
-
-9. <img src="images//infographics-media-10.png" style="float:right;width:200px;height:150px;" alt="colour tiles">Click on the bar chart and change the colour to match the colour scheme of the theme **by clicking on the colour tile** in the top toolbar and then choosing a document colour (make sure it’s not the bright blue recently added from the bar chart, though).   
+<img src="images//infographics-media-10.png" style="float:right;width:200px;height:140px;" alt="colour tiles">
+9. Click on the bar chart and change the colour to match the colour scheme of the theme **by clicking on the colour tile** in the top toolbar and then choosing a document colour (make sure it’s not the bright blue recently added from the bar chart, though).   
 <img src="images//infographics-media-11.png" style="float:right;width:200px;height:200px;" alt="infographic example of the 15% less stress text">
 10. Change the heading text to **15% less stress** and delete the other text. Feel free to move things around until you like where things are situated and resize text as needed. 
 
