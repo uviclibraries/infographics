@@ -30,7 +30,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](bit.ly/dsc-infographic-meditate){:target="_blank"}
 
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
-<img src="images//infographics-graphics-11.png" style="float:right;width:100px;height:200px;" alt="More option on navigation bar"> 
+<img src="images//infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="More option on navigation bar"> 
 - Click on the black **More** button on the bottom of the left navigation bar (see image).
   - Click on the **white QR Code icon**.
   - Paste your shortened Bitly URL into the while field that appears, and then click on the teal **Generate code button**.
@@ -39,7 +39,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 5. **Finishing Touches**:
   - Take a look at the overall image and notice any alignment or balance issues. Is the title over to one side? Is that really where I want the bird or that cloud? You can add little detail touches like pulling the bottom cloud forward (right click and **Bring to Front**) and making it larger so that it slightly overlaps the bottom square to create a sense of depth (see final example). 
 ![Demonstration of step 5: adjusting the cloud positionning](/images/infographics-graphics-13.gif)
-<img src="images//infographics-graphics-14.png" style="float:right;width:300px;height:500px;" alt="Complete infographic."> 
+<img src="images//infographics-graphics-15.png" style="float:right;width:300px;height:500px;" alt="Complete infographic."> 
 6. **Exporting & Publishing**:
   - To save your new infographic so that you can publish it where you want, click on the white **Download** button on the top right of your browser, and then click the teal **Download** button. Save your infographic file in a location on your hard drive where you can find it later.
   - Note: the PNG format is a good choice for a high-quality image you can use in a paper or post to social media. For poster printing, high-quality PDF is recommended.
@@ -47,5 +47,5 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon what you’ve learned here.
 
 Here is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
-<img src="images//infographics-graphics-16.gif" style="float:left;width:180px;height:280px;" alt="Example with QR code."> 
+<img src="images//infographics-graphics-16.gif" style="float:left;width:200px;height:280px;" alt="Example with QR code."> 
 [NEXT STEP: Extra Skills](canva-extra-skills.html){: .btn .btn-blue }
