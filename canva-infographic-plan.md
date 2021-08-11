@@ -13,14 +13,16 @@ parent: Workshop Activities
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
   - d.______________________________________________________________________________________________________________________
+<img src="images//infographics-planning-02.png" style="float:right;width:200px;height:200px;" alt="Circular graph">
   - e.______________________________________________________________________________________________________________________
   - f.______________________________________________________________________________________________________________________
-3. <img src="images//infographics-planning-02.png" style="float:right;width:180px;height:180px;" alt="Circular graph"> Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
+3. Determine which facts and statistics you have brainstormed that you will eventually summarize and translate into tables, charts, or graphical representations. This will usually be only 3 or 4 items:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
   - d.______________________________________________________________________________________________________________________
-4. <img src="images//infographics-planning-03.png" style="float:right;width:100px;height:180px;" alt="graphic example">Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
+ <img src="images//infographics-planning-03.png" style="float:right;width:100px;height:2000px;" alt="graphic example">
+4. Where you feel they will have a positive impact on your story, integrate and summarize visual information from photographs, videos, clipart, or maps into a graphical representation. For this example, some ideas are:<br>
   - a.______________________________________________________________________________________________________________________
   - b.______________________________________________________________________________________________________________________
   - c.______________________________________________________________________________________________________________________
