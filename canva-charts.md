@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 3-Bar Charts and Text
+title: 3-Bar Charts & Text
 nav_order: 4
 parent: Workshop Activities
 ---
-# Bar Charts and Text
+# Bar Charts & Text
 <img src="images//infographics-charts-01.png" style="float:right;width:180px;height:380px;" alt="Infographics image">
 Now that you have a title for your infographic, you start to add some facts and graphics below it. If you have any questions, please ask, and don’t forget to have fun!
 
