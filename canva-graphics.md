@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 4-Graphics and Finishing Touches
+title: 4-Graphics & More
 nav_order: 5
 parent: Workshop Activities
 ---
-# Graphics and Finishing Touches
+# Graphics & Finishing Touches
 Now that you have a title and a chart in your infographic, we’ll now add some more graphics and a QR code, and tidy things up before exporting. If you have any questions, please ask, and don’t forget to have fun!
 
 1. **Searching for graphics**:
@@ -25,6 +25,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - You can also switch up the colours so that the bird has an orange body and yellow wing, for instance. 
   - The trees are now too tall since we have changed the alignment of the boxes. We can either shrink the trees down into smaller trees by selecting them and using the white handles to resize them, or go into **Elements** and search for different trees. If you replace the trees, make sure to change their colours so that they match the colour scheme of the infographic. Adding too many colours to an infographic creates visual clutter. Make sure to match the graphic style of the trees to the graphic style of the other elements in the infographic.
 ![Demonstration of step 2: adding elements](/images/infographics-graphics-09.gif)
+
 3. Add your source:
 <img src="images//infographics-graphics-10.png" style="float:right;width:200px;height:200px;" alt="Image of infographic with source."> 
 - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](bit.ly/dsc-infographic-meditate){:target="_blank"}
