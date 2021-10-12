@@ -28,7 +28,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 
 3. Add your source:
 <img src="images//infographics-graphics-10.png" style="float:right;width:200px;height:200px;" alt="Image of infographic with source."> 
-- Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](bit.ly/dsc-infographic-meditate){:target="_blank"}
+- Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](https://bit.ly/dsc-infographic-meditate){:target="_blank"}
 
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
 - Click on the black **More** button on the bottom of the left navigation bar (see image).
