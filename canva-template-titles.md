@@ -14,7 +14,7 @@ Let’s start to create an infographic using a Canva template. Remember that you
  <img src="images//infographics-template-02.png" style="float:right;width:220px;height:280px;" alt="infographics template">  
   - Type **infographic** in the search box in the top right, and then click on the infographic just below the search box.
   - Type “parks” in the search field on the left and click on the blue and orange Parks & Recreation template (see right).
-  - This exercise will use the template in the example to the right and put facts and statistics from [this journal article on meditation](bit.ly/dsc-infographic-meditate) {:target="_blank"} into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
+  - This exercise will use the template in the example to the right and put facts and statistics from [this journal article on meditation](https://bit.ly/dsc-infographic-meditate) {:target="_blank"} into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 ![Demonstration of Step 2, Selecting Infographic template](/images/infographics-template-03.gif)
  <img src="images//infographics-template-05.png" style="float:right;width:200px;height:150px;" alt="Text box with bird">  
 3. Start editing the template and make the title: 
