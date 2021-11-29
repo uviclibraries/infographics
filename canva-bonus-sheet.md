@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8-Bonus Take Home Sheet
+title: 7-Bonus Take Home Sheet
 nav_order: 9
 parent: Workshop Activities
 ---
