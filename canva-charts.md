@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Bar Charts & Text
+title: 2-Bar Charts & Text
 nav_order: 4
 parent: Workshop Activities
 ---
