@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Template & Titles
+title: 1-Template & Titles
 nav_order: 3
 parent: Workshop Activities
 ---
