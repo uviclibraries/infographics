@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Graphics & More
+title: 3-Graphics & More
 nav_order: 5
 parent: Workshop Activities
 ---
