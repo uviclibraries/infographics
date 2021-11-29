@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Plan your Infographic
+title: 6-Plan your Infographic
 nav_order: 8
 parent: Workshop Activities
 ---
