@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Extra Skills
+title: 4-Extra Skills
 nav_order: 6
 parent: Workshop Activities
 ---
