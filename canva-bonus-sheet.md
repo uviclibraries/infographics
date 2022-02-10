@@ -32,6 +32,9 @@ parent: Workshop Activities
 ## Resources:
 - Professional level, diverse, and inclusive resource for free stock photography and video: [Pexels](https://www.pexels.com){:target="_blank"}
 - Another excellent resources for free stock photography including history photos: [Unsplash](https://unsplash.com/){:target="_blank"}
+- Full colour clip art with transparent background: [Vector Stock](https://vectorstock.com){:target="_blank"}
+- Free icons to help describe your research story: [The Noun Project](https://thenounproject.com){:target="_blank"}
+- Create Biology figures: [BioRender](http://BioRender.com){:target="_blank"}
 - Design inspiration: [Design Inspiration](https://www.designspiration.com/){:target="_blank"}
 - Inspiration, creators, freebies: [Dribble](https://dribbble.com/){:target="_blank"}
 - Colour scheme generator: [Coolors](https://coolors.co){:target="_blank"}
