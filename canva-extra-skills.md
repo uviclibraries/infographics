@@ -34,6 +34,15 @@ When you get into the individual image page, the image you’ve chosen will have
   - Click on the thumbnail image of the map of Canada in the left panel, and the map will appear in your infographic.
   - Unlike the graphic elements you can use in Canva, these images you upload will not have the option to change colours to match your document, so keep that in mind when choosing them.
 
+  - Additional Creative Commons Photo and Clipart websites:
+    -   [Unspash](https://unsplash.com){:target="_blank"} (images)
+    -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
+    -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
+    -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"} (clip art)
+    -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
+    -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"} (imeages & clip art)
+    -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+
 4. We used Bit.Ly to create a short URL for our article and that can be useful to link back to your source without taking up a lot of space or having an obnoxiously long link for someone to remember. Here’s how:
   - Open a new tab in your web browser and go to: [bitly.com](https://bitly.com/){:target="_blank"}
   - Hopefully, you still have your article or the article you are basing your infographic on. Paste the URL for your article into the Shorten your link field on the Bitly web page and then press the blue Shorten button (see below).<br>
