@@ -22,7 +22,7 @@ Here are a few added Canva skills and tip to expand your knowledge:
   - For example: a search in Canva for “syringe” brings up only one free option, but a search for “needle” brings up an additional result. 
 
 3. **When you can’t find the free clipart you need on Canva (an example search for a vector map of Canada with a transparent background)**:
-- Open a new tab & go to [Pixabay](pixabay.com){:target="_blank"} to find free licensed images and drawings.
+- Open a new tab & go to [Pixabay](https://pixabay.com){:target="_blank"} to find free licensed images and drawings.
 - In the search box type, **map canada**, and press Enter. Click on the map you’d like to use (look for one with a blank grey background if you want it to be transparent).
 When you get into the individual image page, the image you’ve chosen will have a checkered grey background to indicate that it will be transparent once added to your document
 (see image).
