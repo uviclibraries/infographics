@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Infographics with Canva Resources
--   Where to get high-resolution Creative Commons licensed photos and clip art? 
+Where to get high-resolution Creative Commons licensed photos and clip art? 
    -   [Unspash](https://unsplash.com){:target="_blank"} (images)
    -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
    -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
