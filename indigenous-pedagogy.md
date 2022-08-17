@@ -4,7 +4,7 @@ title: Bonus - Indigneous Pedagogy Infographic [UNDER CONSTRUCTION]
 nav_order: 8
 parent: Workshop Activities
 ---
-# Template and Titles
+# Indigenous Pedagogy Infographic
 <img src="images//infographics-template-01.png" style="float:right;width:180px;height:180px;"> 
 Let’s create an indigenous pedagogy infographic using a Canva template. Remember that you are highlighing the key points, and don’t have much space, so you can only present the most important 3 or 4 highlights. If you have any questions, please ask, and don’t forget to have fun!
 
