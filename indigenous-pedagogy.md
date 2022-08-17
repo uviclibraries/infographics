@@ -6,9 +6,9 @@ parent: Workshop Activities
 ---
 # Template and Titles
 <img src="images//infographics-template-01.png" style="float:right;width:180px;height:180px;"> 
-Let’s start to create an infographic using a Canva template. Remember that you are telling a story, and don’t have much space, so you can only present the most important highlights. If you have any questions, please ask, and don’t forget to have fun!
+Let’s create an indigenous pedagogy infographic using a Canva template. Remember that you are highlighing the key points, and don’t have much space, so you can only present the most important 3 or 4 highlights. If you have any questions, please ask, and don’t forget to have fun!
 
-1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
+1. If you haven't done so already, please create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
 2. Click on the purple **Create a design** button on the top right of the screen.
  <img src="images//infographics-template-02.png" style="float:right;width:220px;height:280px;" alt="infographics template">  
