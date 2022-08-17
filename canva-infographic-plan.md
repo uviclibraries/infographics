@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Planning your Infographic and Gathering Data
 <img src="images//infographics-planning-01.png" style="float:right;width:280px;" alt="Infographic"> 
 
-1. For this exercise, you can use your own research or use data from a [research article titled Brief](https://www.bit.ly/dsc-infographic-meditatebit.ly/dsc-infographic-meditate){:target="_blank"}, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators, in order to build skills before you start work on your own infographic.
+1. For this exercise, you can use your own research, choose an article on your own, or use data from a [research article titled Brief](https://www.bit.ly/dsc-infographic-meditatebit.ly/dsc-infographic-meditate){:target="_blank"}, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators, in order to build skills before you start work on your own infographic.
 
 2. Determine who your audience is, as this should guide you in your choice of imagry, and cultural references. For example, if you are creating your infographic for middle school students you might effectively refrence a TikTok meme, however that same meme might not resonate with retirees. Whth that in mind, is your audience:
   - middle school students? 
