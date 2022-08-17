@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonus Indigneous Pedagogy Infopgraphic
+title: Bonus - Indigneous Pedagogy Infopgraphic
 nav_order: 8
 parent: Workshop Activities
 ---
