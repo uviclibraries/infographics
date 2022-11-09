@@ -45,4 +45,5 @@ Great Job!
 
 [Photo credit](https://www.flickr.com/photos/dashburst/8448339735/in/photolist-kee8qu-dSxX4V){:target="_blank"}: What makes a good infographic, Daniel Zeevi - flickr - CC-BY-ND
 
+
 [NEXT STEP: Bonus Take Home Sheet](canva-bonus-sheet.html){: .btn .btn-blue }

@@ -3,6 +3,7 @@ layout: default
 title: 4-Extra Skills
 nav_order: 6
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Extra Skills with Canva
 Here are a few added Canva skills and tip to expand your knowledge:
@@ -15,7 +16,12 @@ Here are a few added Canva skills and tip to expand your knowledge:
   - Click once on a picture. The picture will appear in your infographic.
   - Grab a round, white handle at one of the corners of the photo to resize the image while maintaining aspect ratio. 
   - To crop the image, hold down the shift key while dragging the round corner handles. Once the image is cropped down to the size you want, you can also double click on it and drag the image around inside the cropped window to get it situated the way you want (see photo). 
-![Demonstration of cropping an image](/images/infographics-extra-03.gif)
+
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
+      <img src="images/infographics-extra-03.gif"> <br>
+     </div>
+
 
 2. **Tips for searching for clipart in Canva**:
   - If you are searching for graphic elements and none of the results that come up are free, try thinking of different words to use for your searches. 
@@ -27,7 +33,8 @@ Here are a few added Canva skills and tip to expand your knowledge:
 When you get into the individual image page, the image you’ve chosen will have a checkered grey background to indicate that it will be transparent once added to your document
 (see image).
 <img src="images//infographics-extra-04.png" style="float:right" alt="map example"> 
-  - Click on the green Free Download button on the right of the screen and select the highest resolution PNG file. Note where your browser saves the image file.
+
+ - Click on the green Free Download button on the right of the screen and select the highest resolution PNG file. Note where your browser saves the image file.
   - Go back to Canva, and click on the black Uploads button to the left of the screen. 
   - Next click on the green Upload an image or video button.
   - Navigate to where you saved the map of Canada, select the file, & click Open.
@@ -52,5 +59,17 @@ When you get into the individual image page, the image you’ve chosen will have
   - Note: bit.ly also allows you to create custom links if you want.
 
 Great Job!
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Social Media Slides](canva-social-media.html){: .btn .btn-blue }
