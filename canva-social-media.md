@@ -80,4 +80,4 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
     }
 </script>
 
-[NEXT STEP: Planning an Infographic](canva-infographic-plan.html){: .btn .btn-blue }
+[NEXT STEP: Planning an Infographic](6-indigenous-pedagogy.html){: .btn .btn-blue }
