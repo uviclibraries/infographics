@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6 - Indigneous Pedagogy Infographic [UNDER CONSTRUCTION]
+title: 6 - Indigenous Pedagogy Infographic [UNDER CONSTRUCTION]
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -18,10 +18,10 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   - Type **infographic** in the search box in the top right, and then click on the infographic just below the search box.
   - Type **Pink Motherhood Maternity** in the search field on the left and click on the mainly pink "New Chapter Maternity" template (see right).
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-      <img src="images/infographics-template-03.gif"> <br>
-     </div>
+ <button onclick="toggle('gif1')">Show/Hide Animation</button>
+ 
+ <div id="gif1"> <img src="images/infographics-template-03.gif">
+    </div>
 
   - This exercise will use the template in the example to the right and put facts and statistics about Indigenous Learning Design into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 

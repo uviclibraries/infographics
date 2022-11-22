@@ -20,18 +20,18 @@ Let’s start to create an infographic using a Canva template. Remember that you
 
   <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-      <img src="images/infographics-template-03.gif"> <br>
-     </div>
+    <img src="images/infographics-template-03.gif" alt="find template" style="width:400px;margin-left:10px;">
+    </div>
 
  <img src="images//infographics-template-05.png" style="float:right;width:200px;height:150px;" alt="Text box with bird">  
 
 3. Start editing the template and make the title: 
   - **Double click** on the text at the top of the graphic, “Parks & Recreation”, and replace the text with, “**Can Short Meditation Benefit Beginners?**” (see photo). You can move the little bird to sit on one of the characters if wanted. If the bird is behind the text box, select the text box, right-click on it to bring up a menu, click on “Send backward” to move the text box back a single layer.<img src="images//infographics-template-04.png" style="float:right;width:300px;height:240px;" alt="bird selected with colour palette">This will move it behind the bird, enabling you to reach the bird. Click off to the side to deselect the text box, and try to click on the bird now. Also, note that while you have the bird selected, you can change the colours of the bird. (see right) Click on the colours in the top toolbar to change the colours if wanted. Currently, the bird matches the colour scheme, so if you change the bird colours, it will no longer match the text boxes, the trees, or the second bird, so keep this in mind for later. 
 
-   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+  <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-      <img src="images/infographics-template-06.gif"> <br>
-     </div>
+    <img src="images/infographics-template-06.gif" alt="editing template">
+    </div>
 
 4. Drag down the green text “For an Active Lifestyle” and change it to “**With 13 minutes per day:**” 
 
@@ -41,8 +41,8 @@ Let’s start to create an infographic using a Canva template. Remember that you
 
  <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-      <img src="images/infographics-template-07.gif"> <br>
-     </div>
+    <img src="images/infographics-template-07.gif" alt="edit icons">
+    </div>
 
  <img src="images//infographics-template-08.png" style="float:right;width:180px;height:380px;" alt="infographics image">
 
