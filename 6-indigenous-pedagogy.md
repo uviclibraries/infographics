@@ -36,27 +36,32 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
 
   <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-      <img src="images/infographics-template-06.gif"> <br>
+     <img src="images/infographics-template-06.gif"> <br>
     </div>
 
 4. Delete the "Maternity" subtitle and white flowers.
+
 5. Replace the circular icons with relevant icons.  For each section, add the titles **Holistic, Experiential Learning, Place-Based Learning,** and **Intergenerational**.
+
 6. Add a totem image and resize it. 
  - [Download a totem icon from the noun project](https://thenounproject.com/icon/totem-4721829/). 
+
  <img src="images/act-6/6-05-upload.png" style="float:right;width:250px;" alt="upload button">
+
  - Click Uploads on the left toolbar, then Upload Files.  Select the totem image you just downloaded and drag it onto your canvas.
  - Resize the image by clicking on it once, dragging the round, white handles until it is bigger, Then drag it to the left of the infographic. 
  - Replace the bottom text with an image attribution, **Totem by Hey Rabbit from NounProject.com - CC-BY**
 
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
+ <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
       <img src="images/infographics-template-07.gif"> <br>
-     </div>
+    </div>
 
 
  <img src="images/act-6/6-04-final.png" style="float:right;width:200px;" alt="infographics image">
 
 7. Change the text under each heading to match the final infographic image.
+
 8. Add a QR code.
 
 Great Job! You are ready to move on to the next activity.
