@@ -59,7 +59,7 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 
 12. Click on **Elements** in the left toolbar and search for **Abstract** to find clipart that is similar to the artwork featured in this them (alternatively, you can rework this whole theme and go with a completely different look -- just remember that infographics are most effective when they have a cohesive look to them). Find some graphics and click on them to add them to the page and remember to change the colors to match the colour scheme.
 
- <img src="images//infographics-media-13.png" style="float:right;width:200px;height:200px;" alt="15% better short term memory page">
+    <img src="images//infographics-media-13.png" style="float:right;width:200px;height:200px;" alt="15% better short term memory page">
 
 13. For the last page, change the header text to **15% better short term memory** and delete the extra text. Go back to the first page and **copy the source information text box** and **paste** it into the last page. Change the colour if needed and move any graphics around if this helps to make the text more readable. Note: If you create an infographic with multiple sources, you can create a page at the end that lists all of your sources.
 
