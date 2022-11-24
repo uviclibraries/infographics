@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6 - Indigenous Pedagogy Infographic [UNDER CONSTRUCTION]
+title: 6 - Indigenous Pedagogy Infographic
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -27,7 +27,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
 
 3. Replace the butterflies and flowers with a flock of birds and a fern.  Click Elements in the left toolbar, then type **birds** in the search bar.  Drag the flock of birds icon over to the infographic.
 
-  <img src="images/act-6/6-03-colours.png" style="float:right;width:300px;" alt="Birds and color palette">  
+    <img src="images/act-6/6-03-colours.png" style="float:right;width:300px;" alt="Birds and color palette">  
 
   - While you have the birds selected, you can change the colour. Click on the square in the top toolbar,then select the brown square under **Document Colors** to make the bird icon brown. 
   - Search **fern** from the elements toolbar and change the colour.
@@ -43,17 +43,14 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   <img src="images/act-6/6-02.gif" alt="icons and bullet points" style="width:700px;">
   </div>
 
-  <img src="images/act-6/6-04-svg.png" style="float:right;width:250px;" alt="upload button">
+    <img src="images/act-6/6-04-svg.png" style="float:right;width:250px;" alt="upload button">
 
 5. Add a totem image and resize it. 
   - Click this link to [Download a totem icon from the noun project](https://thenounproject.com/icon/totem-4721829/){:target="_blank"}. 
     - choose the free download option, then select Download SVG.
-
-  <img src="images/act-6/6-05-upload.PNG" style="float:right;width:250px;" alt="upload button">
-
+    <img src="images/act-6/6-05-upload.PNG" style="float:right;width:250px;" alt="upload button">
   - Click Uploads on the left toolbar, then Upload Files.  Select the totem image you just downloaded and drag it onto your canvas.
   - Resize the image by clicking on it once, dragging the round, white handles until it is bigger, Then drag it to the left of the infographic. 
-  
   - The image attribution for the totem is cut off, so we will replace it:  
     - From the elements menu select a box and change the colour to match the background
     - Make a new text box with an image attribution: **Totem by Hey Rabbit from NounProject.com - CC-BY** 
@@ -64,13 +61,11 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   <img src="images/act-6/6-03.gif" alt="totem image" style="width:700px;">
   </div>
 
- 
-
 6. Add a QR code.
   - copy this link to a description of Indigenous pedagogies: [https://bit.ly/dsc-pt](https://bit.ly/dsc-pt){:target="_blank"}
   - go to [QR Code Generator](https://msystems.net/qr/){:target="_blank"} and copy the link from above to generate a QR code.
   - Upload the QR code to Canva (see previous step for instructions) and drag it onto the bottom of the infographic.
-  
+
    <img src="images/act-6/6-06-final.png" style="margin-left:10px;width:200px;" alt="upload button">
 
 Great Job!
