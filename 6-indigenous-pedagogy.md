@@ -25,9 +25,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   <img src="images/act-6/6-01.gif" alt="placeholder-gifs coming soon" style="width:700px;">
   </div>
 
-3. Replace the butterflies and flowers with a flock of birds and a fern.  Click Elements in the left toolbar, then type **birds** in the search bar.  Drag the flock of birds icon over to the infographic.
-
-    <img src="images/act-6/6-03-colours.png" style="float:right;width:300px;" alt="Birds and color palette">  
+3. Replace the butterflies and flowers with a flock of birds and a fern.  Click Elements in the left toolbar, then type **birds** in the search bar.  Drag the flock of birds icon over to the infographic. <img src="images/act-6/6-03-colours.png" style="margin-left:10px;float:right;width:300px;" alt="Birds and color palette">  
 
   - While you have the birds selected, you can change the colour. Click on the square in the top toolbar,then select the brown square under **Document Colors** to make the bird icon brown. 
   - Search **fern** from the elements toolbar and change the colour.
@@ -43,7 +41,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   <img src="images/act-6/6-02.gif" alt="icons and bullet points" style="width:700px;">
   </div>
 
-    <img src="images/act-6/6-04-svg.png" style="float:right;width:250px;" alt="upload button">
+  <img src="images/act-6/6-04-svg.png" style="float:right;width:250px;" alt="upload button">
 
 5. Add a totem image and resize it. 
   - Click this link to [Download a totem icon from the noun project](https://thenounproject.com/icon/totem-4721829/){:target="_blank"}. 
@@ -66,7 +64,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   - go to [QR Code Generator](https://msystems.net/qr/){:target="_blank"} and copy the link from above to generate a QR code.
   - Upload the QR code to Canva (see previous step for instructions) and drag it onto the bottom of the infographic.
 
-   <img src="images/act-6/6-06-final.png" style="margin-left:10px;width:200px;" alt="upload button">
+  <img src="images/act-6/6-06-final.png" style="margin-left:10px;width:200px;" alt="upload button">
 
 Great Job!
 
