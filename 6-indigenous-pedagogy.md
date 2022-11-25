@@ -16,17 +16,13 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   - Type **Pink Motherhood Maternity** in the search field on the left and click on the mainly pink "New Chapter Maternity" template (see right).
   - This exercise will use the template in the example to the right and put facts and statistics about Indigenous Learning Design into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 
-2. Start editing the template and make the title: <img src="images/act-6/6-02-title.png" style="float:right;width:220px; margin-right:10px;" alt="Title">  
+2. Start editing the template and make the title: <img src="images/act-6/6-02-title.png" style="float:right;width:200px; margin-right:10px;" alt="Title">  
   - **Double click** on the text at the top of the graphic, “New Chapter”, and replace the text with “**Indigenous Learning Design**”.  
   - Delete the "maternity" subtitle.
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button> 
-  <div id="gif1"> 
-  <img src="images/act-6/6-01.gif" alt="placeholder-gifs coming soon" style="width:700px;">
-  </div>
-
+    <button onclick="toggle('gif1')">Show/Hide Animation</button> 
+    <div id="gif1"><img src="images/act-6/6-01.gif" alt="placeholder-gifs coming soon" style="width:700px;"></div>
 3. Replace the butterflies and flowers with a flock of birds and a fern.  Click Elements in the left toolbar, then type **birds** in the search bar.  Drag the flock of birds icon over to the infographic. <img src="images/act-6/6-03-colours.png" style="margin-left:10px;float:right;width:300px;" alt="Birds and color palette">  
-
   - While you have the birds selected, you can change the colour. Click on the square in the top toolbar,then select the brown square under **Document Colors** to make the bird icon brown. 
   - Search **fern** from the elements toolbar and change the colour.
 
@@ -38,16 +34,15 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
 
   <button onclick="toggle('gif2')">Show/Hide Animation</button> 
   <div id="gif2"> 
-  <img src="images/act-6/6-02.gif" alt="icons and bullet points" style="width:700px;">
-  </div>
+  <img src="images/act-6/6-02.gif" alt="icons and bullet points" style="width:700px;"></div>
 
   <img src="images/act-6/6-04-svg.png" style="float:right;width:250px;" alt="upload button">
 
 5. Add a totem image and resize it. 
   - Click this link to [Download a totem icon from the noun project](https://thenounproject.com/icon/totem-4721829/){:target="_blank"}. 
-    - choose the free download option, then select Download SVG.
+    - Click **Get This Icon**, choose the free **Basic Download** option, then select **Continue**.  Click **Download SVG** to download the file to your computer.
     <img src="images/act-6/6-05-upload.PNG" style="float:right;width:250px;" alt="upload button">
-  - Click Uploads on the left toolbar, then Upload Files.  Select the totem image you just downloaded and drag it onto your canvas.
+  - In Canva, Click **Uploads** on the left toolbar, then **Upload Files.**  Select the totem image you just downloaded and drag it onto your canvas.
   - Resize the image by clicking on it once, dragging the round, white handles until it is bigger, Then drag it to the left of the infographic. 
   - The image attribution for the totem is cut off, so we will replace it:  
     - From the elements menu select a box and change the colour to match the background
