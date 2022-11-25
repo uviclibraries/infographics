@@ -30,6 +30,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   - Search for elements using the keywords **hands and help**, **tools**, **mountain**, and **family**
   - For each of the four sections, add textboxes for **Holistic, Experiential Learning, Place-Based Learning,** and **Intergenerational**.
   - Replace the small text with bullet points describing each section.
+
     <img src="images/act-6/6-03a-holistic.png" style="height:80px;" alt="holistic text">
     <img src="images/act-6/6-03b-experiential.png" style="height:80px;" alt="holistic text">
 
@@ -63,7 +64,7 @@ Let’s create an indigenous pedagogy infographic using a Canva template. Rememb
   - go to [QR Code Generator](https://msystems.net/qr/){:target="_blank"} and copy the link from above to generate a QR code.
   - Upload the QR code to Canva (see previous step for instructions) and drag it onto the bottom of the infographic.
 
-  <img src="images/act-6/6-06-final.png" style="margin-left:10px;width:200px;" alt="upload button">
+  <img src="images/act-6/6-06-final.png" style="margin-left:30px;width:200px;" alt="upload button">
 
 Great Job!
 
