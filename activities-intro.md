@@ -6,9 +6,14 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
-- Please review the following [Introductory Slides](http://bit.ly/3PMeoG){:target="_blank"} or [Workshop Introduction Video](https://www.youtube.com/watch?v=-gAkxSlkwvg){:target="_blank"}
+Please review the following links:
 
-- Resize Your Laptop Screen for Workshop Handouts (2 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Watch the [Workshop Introduction Video](https://www.youtube.com/watch?v=-gAkxSlkwvg){:target="_blank"}
+- Or read the[Introductory Slides](http://bit.ly/3PMeoG){:target="_blank"} 
+- Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-gAkxSlkwvg" title="Infographics- UVic Libraries DSC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 [NEXT STEP: Template and Titles](1-canva-template-titles.html){: .btn .btn-blue }
