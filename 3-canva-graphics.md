@@ -76,12 +76,8 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 
 Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon what you’ve learned here.
 
-Here is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
-
-  <button onclick="toggle('gif6')">Show/Hide Animation</button>
-  <div id="gif6">
-  <img src="images//infographics-graphics-16.gif" style="width:200px;height:280px;" alt="Example with QR code.">
-  </div>
+Below is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
+<img src="images//infographics-graphics-16.gif" style="margin-left:20px;width:300px;" alt="Example with QR code.">
 
 <script>  
 
