@@ -19,38 +19,33 @@ Now that you have a title for your infographic, you start to add some facts and 
   <img src="images//infographics-charts-02.png" style="float:right;width:100px;" alt="blue bar graph">
   - Click on **Elements** in the left toolbar. Scroll down to **Charts** and click on **See All**. Click on the blue upright bar graph. 
   - While the Chart is selected, click on the **blue square colour icon** in the top left next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same blue in the infographic. If you mouse over the other tiles, you will see the hex numbers come up, you want the one that is #537ea8.  
-
   <img src="images//infographics-charts-03.png" style="margin-left:10px;width:300px;" alt="editing toolbar">
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-  <div id="gif1">
-  <img src="images/infographics-charts-05.gif" alt="add bar chart" style="width:700px;margin-left:10px;">
-  </div> 
-
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/infographics-charts-05.gif" alt="add bar chart" style="width:700px;margin-left:10px;">
+    </div> 
   <img src="images//infographics-charts-04.png" style="float:right;width:200px;" alt="Bar chart example table"> 
-
+  
   - Click on the **Edit** button to bring up the grid in the left sidebar, where you can fill in the information for your bar graphs, and the graph will automatically update. You can enter: 39.2, 46.2 into the second columns for Item 1 and 2, and erase the rest of the information. For this example, the hanging auto-generated text doesn’t fit well with the squares in the template, so we are going to leave it out of the chart information and enter it into text boxes instead for a nicer look.
-
   <img src="images//infographics-charts-08.png" style="margin-left:10px;width:400px;" alt="blue bar graph resized with titles">
 
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
-  <div id="gif2">
-  <img src="images/infographics-charts-06.gif" alt="entering info">
-  </div> 
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/infographics-charts-06.gif" alt="entering info">
+    </div> 
 
-  <img src="images//infographics-charts-07.png" style="margin-left:10px; float:right; width:200px;" alt="duplicate button">
+    <img src="images//infographics-charts-07.png" style="margin-left:10px; float:right; width:200px;" alt="duplicate button">
 
-  - If you’ve kept the white text box (in the orange box), you can duplicate it by selecting it and clicking the **Duplicate button**, and replace the text with “Meditators” and “Control Group”. Resize the font to fit. In this example, we have used the template font Montserrat Classic with a size 20. 
-  
+  - If you’ve kept the white text box (in the orange box), you can duplicate it by selecting it and clicking the **Duplicate button**, and replace the text with “Meditators” and “Control Group”. Resize the font to fit. In this example, we have used the template font Montserrat Classic with a size 20. <br>
   <img src="images//infographics-charts-10.png" style="margin-left:10px;float:right;width:140px;" alt="blue bar graph with text box rotated and adjusted">(You will need to right-click on your chart and “send backward” so that the text sits on a higher layer or it will disappear behind the chart.) (You may want to left justify the text in the box.)
   - Use the little handles by the text box to move it around and rotate it.
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-  <div id="gif3">
-  <img src="images/infographics-charts-11.gif" alt="charts">
-  </div> 
-
-  <img src="images//infographics-charts-12.png" style="float:right;width:200px;" alt="Bar chart with text position"> 
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/infographics-charts-11.gif" alt="charts">
+    </div> <br>
+    <img src="images//infographics-charts-12.png" style="float:right;width:200px;" alt="Bar chart with text position"> 
 
 3. **Add description text**:
   - To stick with the upright theme of this bar chart, we are going to put in the text upright as well. If you’ve left in the blue “New York” text, you can pull it up and change it to “STRESS”, change it to font size  56 and rotate it 90 degrees to match the bars. If you haven’t saved a text box, you can duplicate one of the text boxes from the chart and change the colour to the same blue (#537ea8).

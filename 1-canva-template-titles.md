@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Template and Titles
-<img src="images//infographics-template-01.png" style="float:right;width:180px;height:180px;"> 
+<img src="images//infographics-template-01.png" style="float:right; margin-left:10px; width:180px;height:180px;"> 
 Let’s start to create an infographic using a Canva template. Remember that you are telling a story, and don’t have much space, so you can only present the most important highlights. If you have any questions, please ask, and don’t forget to have fun!
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
@@ -15,7 +15,7 @@ Let’s start to create an infographic using a Canva template. Remember that you
 
 2. Click on the purple **Create a design** button on the top right of the screen.
     - Type **infographic** in the search box in the top right, and then click on the infographic just below the search box.
-    - Type “parks” in the search field on the left and click on the blue and orange Parks & Recreation template (see right).
+    - Type **“parks”** in the search field on the left and click on the blue and orange Parks & Recreation template (see right).
     - This exercise will use the template in the example to the right and put facts and statistics from [this journal article on meditation](https://bit.ly/dsc-infographic-meditate){:target="_blank"} into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
     
     <button onclick="toggle('gif1')">Show/Hide Animation</button>

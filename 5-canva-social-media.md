@@ -19,18 +19,18 @@ In  this exercise, we will go over the use of Canva for creating these slides (u
 
 2. Type “**meditation**” in the search field on the left top and click on the peach and orange template (see image).
 
-    <img src="images//infographics-media-02.png" style="float:right;width:220px;height:280px;" alt="Template design"> 
+    <img src="images//infographics-media-02.png" style="margin-left:20px; width:300px;" alt="Template design"> 
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/infographics-extra-03.gif">
+    <img src="images/infographics-extra-03.gif" style="width:700px;">
     </div>
 
 3. This exercise will use the template in the example to the right and put facts and statistics from [this article on Meditation](https://www.bit.ly/dsc-infographic-meditate){:target="_blank"}  into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
 
 4. <img src="images//infographics-media-04.png" style="float:right;width:200px;height:200px;" alt="Step 4 example of replacing writing"> **Double click** on the text in the first page, “Tips on...”, and replace the text with, **Can Short Meditation Benefit Beginners?**  And the small text below it can be replaced with: **With 13 minutes per day**. 
 
-5. Click on Text in the left toolbar and then click on Add a subheading. In the text box that is added to your slide, write: **[Source](https://www.bit.ly/dsc-infographic-meditate)**{:target="_blank"} and then select the text to make the following changes to it. **Change the font size to 18**, set it to **Bold**, and change the color to one of the document colors. Move it into the top or bottom of the page. If you move it into the bottom, you will need to delete one of the clipart items so the text is readable.
+5. Click on **Text** in the left toolbar and then click on **Add a subheading.** In the text box that is added to your slide, write [**"Source"**](https://www.bit.ly/dsc-infographic-meditate){:target="_blank"} and then select the text to make the following changes to it. **Change the font size to 18**, set it to **Bold**, and change the color to one of the document colors. Move it into the top or bottom of the page. If you move it into the bottom, you will need to delete one of the clipart items so the text is readable.
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
