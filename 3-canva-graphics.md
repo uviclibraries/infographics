@@ -14,24 +14,19 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 1. **Searching for graphics**:
   - Click on **Elements** in the left toolbar and type in the upper search bar “**coffee**”. Look for a coffee cup that is simple. Our goal is to find one that Canva allows us to change the colours to match our colour scheme, and also has space to put text over. 
   - The mug with the wisp of steam on it suits the purpose but the shading doesn’t match the style of the other graphic elements of the infographic -- which is key to a cohesive look. But because of the ability to change colours we can get rid of it. Drag the image into the second orange box. Click on the tan tile icons in the top toolbar to bring up the mug palette (see below).![Colour palette](/images/infographics-graphics-01.png)<br> Choose the same blue as is used in the rest of the design and do this for the other tan tiles until the mug and saucer are solid blue. For the darkest tile, change it to white for the steam. See right for the before and after. 
-
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/infographics-graphics-05.gif"> <br>
+    <img src="images/infographics-graphics-05.gif"><br>
     </div>
-
-  <img src="images//infographics-graphics-07.png" style="float:right" alt="45% better mood and 15% better short term memory graphics">
-
+  <img src="images//infographics-graphics-07.png" style="float:right" alt="45% better mood and 15% better short term memory graphics"><br>
   - For the last orange box, we are going to go back into **Elements** and search for **brain** and look for the graphic to the right. Add it to the last orange box, resize it, and change the head to blue, leaving the oval inside white. 
   - Use text boxes to **add the text** to your graphics:
       - 45% better mood
       - 15% better short term memory
-
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/infographics-graphics-08.gif"> <br>
+    <img src="images/infographics-graphics-08.gif"><br>
     </div>
-
 2. **The Birds and the Trees**:
   - You can move the second little bird around to another spot on the infographic. Either on top of one of the boxes or a cloud, for instance. If you deleted the bird earlier, you can duplicate the other bird by selecting it and clicking the **Duplicate** button.
   - For added contrast, you may want to switch the bird to face another direction. To do this, click on the bird to select it, and click on **Flip** in the upper toolbar. 
