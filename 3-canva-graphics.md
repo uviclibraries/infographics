@@ -71,7 +71,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   <img src="images//infographics-graphics-15.png" style="float:right;width:200px;height:500px;" alt="Complete infographic."> 
 
 6. **Exporting & Publishing**:
-  - To save your new infographic so that you can publish it where you want, click on the white **Download** button on the top right of your browser, and then click the teal **Download** button. Save your infographic file in a location on your hard drive where you can find it later.
+  - To save your new infographic so that you can publish it where you want, click on the white **Share** button on the top right of your browser, and then click the white **Download** menu item. Save your infographic file in a location on your hard drive where you can find it later.
   - Note: the PNG format is a good choice for a high-quality image you can use in a paper or post to social media. For poster printing, high-quality PDF is recommended.
 
 Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon what you’ve learned here.
