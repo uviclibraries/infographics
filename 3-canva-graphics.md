@@ -65,6 +65,7 @@ Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon
 
 Below is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
 <img src="images//infographics-graphics-16.gif" style="margin-left:20px;width:300px;" alt="Example with QR code."><br>
+
 <script>  
 
     function toggle(input) {
