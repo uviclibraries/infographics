@@ -32,7 +32,6 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - For added contrast, you may want to switch the bird to face another direction. To do this, click on the bird to select it, and click on **Flip** in the upper toolbar. 
   - You can also switch up the colours so that the bird has an orange body and yellow wing, for instance. 
   - The trees are now too tall since we have changed the alignment of the boxes. We can either shrink the trees down into smaller trees by selecting them and using the white handles to resize them, or go into **Elements** and search for different trees. If you replace the trees, make sure to change their colours so that they match the colour scheme of the infographic. Adding too many colours to an infographic creates visual clutter. Make sure to match the graphic style of the trees to the graphic style of the other elements in the infographic.
-
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/infographics-graphics-09.gif"> <br>
@@ -42,9 +41,10 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](https://bit.ly/dsc-infographic-meditate){:target="_blank"}
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
   - Click on the black **Apps** button on the bottom of the left navigation bar (see image).
-  - Click on the **white QR Code icon**.
+  - Type **QR Code** into the search field and then press enter on your keyboard.
+  - Click on the white **QR Code** icon on the top left of the grid of search items.
   <img src="images/infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="Apps option on navigation bar"> 
-  - Paste your shortened Bitly URL into the while field that appears, and then click on the teal **Generate code button**.
+  - Paste your shortened Bitly URL - https://bit.ly/dsc-infographic-meditate - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
