@@ -44,7 +44,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - Type **QR Code** into the search field and then press enter on your keyboard.
   - Click on the white **QR Code** icon on the top left of the grid of search items.
   <img src="images/infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="Apps option on navigation bar"> 
-  - Paste your shortened Bitly URL - https://bit.ly/dsc-infographic-meditate - into the while field that appears, and then click on the teal **Generate code** button.
+  - Paste your shortened Bitly URL - (https://bit.ly/dsc-infographic-meditate){:target="_blank"} - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
