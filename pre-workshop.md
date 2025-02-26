@@ -6,7 +6,7 @@ nav_order: 2
 ##  Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Canva in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**18 minutes:**<br>
+**8 minutes:**<br>
 
 - Why Canva: [“What is Canva and why should you use it”](https://www.youtube.com/watch?v=n1nt7uOh008){:target="_blank"} (1 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1nt7uOh008" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
