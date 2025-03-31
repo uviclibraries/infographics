@@ -16,9 +16,9 @@ Where to get high-resolution Creative Commons licensed photos and clip art?
    -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"} (images)
 
 ## Faculty tips & Rubrics for assignments 
+- [Sample inforgraphic rubric](https://ecampusontario.pressbooks.pub/app/uploads/sites/1660/2022/01/Sample-Infographic-Rubric_final.docx) from eCampusOntario (DOC)
 - [Elements of an Effective Infographic Assignment, including a rubric](https://teaching.uwo.ca/elearning/pdf/elements-of-an-effective-infographic-assignment.html){:target="_blank"} (PDF)
 - [Comparison of Canva, Piktochart, & Infogram](http://bit.ly/35VuWrM){:target="_blank"}
-- [Infographic assignment rubric](http://bit.ly/2rHmaP8){:target="_blank"}
 
 ## Acknowledgements
 
