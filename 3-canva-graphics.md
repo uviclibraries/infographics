@@ -8,35 +8,19 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Graphics & Finishing Touches
 Now that you have a title and a chart in your infographic, we’ll now add some more graphics and a QR code, and tidy things up before exporting. If you have any questions, please ask, and don’t forget to have fun!
 
-  <img src="images//infographics-graphics-02.png" style="float:right;width:100px;height:100px;" alt="Coffee mug infographic image"><img src="images//infographics-graphics-03.png" style="float:right;width:100px;height:100px;" alt="Coffee mug infographic image"> 
- <img src="images//infographics-graphics-04.png" style="float:right;width:100px;height:100px;" alt="brain infographic image"> 
-
 1. **Searching for graphics**:
-  - Click on **Elements** in the left toolbar and type in the upper search bar “**coffee**”. Look for a coffee cup that is simple. Our goal is to find one that Canva allows us to change the colours to match our colour scheme, and also has space to put text over. 
-  - The mug with the wisp of steam on it suits the purpose but the shading doesn’t match the style of the other graphic elements of the infographic -- which is key to a cohesive look. But because of the ability to change colours we can get rid of it. Drag the image into the second orange box. Click on the tan tile icons in the top toolbar to bring up the mug palette (see below).![Colour palette](/images/infographics-graphics-01.png)<br> Choose the same blue as is used in the rest of the design and do this for the other tan tiles until the mug and saucer are solid blue. For the darkest tile, change it to white for the steam. See right for the before and after. <br>
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-    <img src="images/infographics-graphics-05.gif"><br>
-    </div>
+  - Click on **Elements** in the left toolbar and type in the upper search bar “**lightbult**”. Look for a lightbulb that is simple and fits in well with the graphic style of the rest of the infographic. 
+  - Click on the circle colour icons in the top toolbar to bring up the colour palette (see below).![Colour palette](/images/infographics-graphics-01.png)<br> Choose colours that suit the rest of the design.
+    
   <img src="images//infographics-graphics-07.png" style="float:right" alt="45% better mood and 15% better short term memory graphics"><br>
-  - For the last orange box, we are going to go back into **Elements** and search for **brain** and look for the graphic to the right. Add it to the last orange box, resize it, and change the head to blue, leaving the oval inside white. 
-  - Use text boxes to **add the text** to your graphics:
-      - 45% better mood
+  
+  - Use text boxes to **add the text** below your graphic:
       - 15% better short term memory<br>
-    <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
-    <img src="images/infographics-graphics-08.gif"><br>
-    </div>
-2. **The Birds and the Trees**:
-  - You can move the second little bird around to another spot on the infographic. Either on top of one of the boxes or a cloud, for instance. If you deleted the bird earlier, you can duplicate the other bird by selecting it and clicking the **Duplicate** button.
-  - For added contrast, you may want to switch the bird to face another direction. To do this, click on the bird to select it, and click on **Flip** in the upper toolbar. 
-  - You can also switch up the colours so that the bird has an orange body and yellow wing, for instance. 
-  - The trees are now too tall since we have changed the alignment of the boxes. We can either shrink the trees down into smaller trees by selecting them and using the white handles to resize them, or go into **Elements** and search for different trees. If you replace the trees, make sure to change their colours so that they match the colour scheme of the infographic. Adding too many colours to an infographic creates visual clutter. Make sure to match the graphic style of the trees to the graphic style of the other elements in the infographic.
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
-    <img src="images/infographics-graphics-09.gif"> <br>
-    </div>
-  <img src="images/infographics-graphics-10.png" style="float:right;width:200px;height:200px;" alt="Image of infographic with source."><br>
+
+2. **Make Adjustments as Needed**:
+  - Feel free to move your background tree and/or any of the text boxes and graphics around now that you have most of your elements in the design and have a better feel of how it all fits together.
+  - Make sure you save a little space at the bottom for a QR code.
+ 
 3. Add your source:
   - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](https://bit.ly/dsc-infographic-meditate){:target="_blank"}
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
