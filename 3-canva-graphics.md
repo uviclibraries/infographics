@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 Now that you have a title and a chart in your infographic, we’ll now add some more graphics and a QR code, and tidy things up before exporting. If you have any questions, please ask, and don’t forget to have fun!
 
 1. **Searching for graphics**:
-  - Click on **Elements** in the left toolbar and type in the upper search bar “**lightbult**”. Look for a lightbulb that is simple and fits in well with the graphic style of the rest of the infographic. 
+  - Click on **Elements** in the left toolbar and type in the upper search bar “**lightbulb**”. Look for a lightbulb that is simple and fits in well with the graphic style of the rest of the infographic. 
   - Click on the circle colour icons in the top toolbar to bring up the colour palette. <br> Choose colours that suit the rest of the design.
     
   <img src="images//info10.png" style="float:right" alt="15% better short term memory graphic"><br>
@@ -27,7 +27,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - Click on the black **Apps** button on the bottom of the left navigation bar (see image).
   - Type **QR Code** into the search field and then press enter on your keyboard.
   - Click on the black and white **QR Code** icon in the top left of the grid of search items and then click on the Open button that will appear.
-  <img src="images/info12.png" style="float:right;width:100px;height:160px;" alt="QR code"> 
+  <img src="images/info12.png" style="float:right;width:300px;" alt="QR code"> 
   - Paste your shortened Bitly URL - (https://bit.ly/dsc-infographic-meditate){:target="_blank"} - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
 
