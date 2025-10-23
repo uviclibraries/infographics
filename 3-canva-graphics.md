@@ -26,21 +26,15 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
   - Click on the black **Apps** button on the bottom of the left navigation bar (see image).
   - Type **QR Code** into the search field and then press enter on your keyboard.
-  - Click on the white **QR Code** icon on the top left of the grid of search items.
-  <img src="images/infographics-graphics-11.png" style="float:right;width:100px;height:160px;" alt="Apps option on navigation bar"> 
+  - Click on the black and white **QR Code** icon in the top left of the grid of search items and then click on the Open button that will appear.
+  <img src="images/info12.png" style="float:right;width:100px;height:160px;" alt="QR code"> 
   - Paste your shortened Bitly URL - (https://bit.ly/dsc-infographic-meditate){:target="_blank"} - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
-    <img src="images/infographics-graphics-12.gif"> <br>
-    </div>
+
 5. **Finishing Touches**:
   - Take a look at the overall image and notice any alignment or balance issues. Is the title over to one side? Is that really where I want the bird or that cloud? You can add little detail touches like pulling the bottom cloud forward (right click and **Bring to Front**) and making it larger so that it slightly overlaps the bottom square to create a sense of depth (see final example). 
-    <button onclick="toggle('gif5')">Show/Hide Animation</button>
-    <div id="gif5">
-    <img src="images/infographics-graphics-13.gif"> <br>
-    </div>
-  <img src="images/infographics-graphics-15.png" style="float:right;width:200px;height:500px;" alt="Complete infographic."> <br>
+
+  <img src="images/info11.png" style="float:right;width:200px;height:500px;" alt="Complete infographic."> <br>
 6. **Exporting & Publishing**:
   - To save your new infographic so that you can publish it where you want, click on the white **Share** button on the top right of your browser, and then click the white **Download** menu item. Save your infographic file in a location on your hard drive where you can find it later.
   - Note: the PNG format is a good choice for a high-quality image you can use in a paper or post to social media. For poster printing, high-quality PDF is recommended.
