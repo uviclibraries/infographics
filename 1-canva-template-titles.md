@@ -22,14 +22,13 @@ Let’s start to create an infographic using a Canva template. Remember that you
 3. Start editing the template and change the graphics:
     - Delete the tree and the striped rectangle behind the title text.
     - Click on **Elements** in the left menu and search for hand drawn tree. When you see the Graphics category appear, click on **See All** to the right of it.
-          <img src="images//info01.png" style="float:right;width:300px;" alt="Elements menu">
-      <br><br>
+         
     - Scroll through the trees to find one that you like and drag it over into your design. The one in this example is several rows down the search results.
     - Click the **x** in the search field for Elements and grab the Square in the Shapes category to drag it over to the template.
       <img src="images//info03a.png" style="float:right;width:300px;" alt="Shapes menu">
          <br><br>
     - To change the colour of the Square, click on the circle of the same colour seen up in the top bar menu. White was used in this example.
-   <img src="images//info03b.png" style="float:right;width:300px;" alt="Colour menu">    <br><br>
+ 
     - Additionally, you can decrease the transparency of the shape to allow the background graphics to show through by clicking on the Transparency menu item in the top bar menu and dragging the slider until you are satisfied.
     <img src="images//info03c.png" style="float:right;width:300px;" alt="Elements menu">    <br><br>
 4. Rearrange the layers to make sure your objects and text are in the order you want them to be:
