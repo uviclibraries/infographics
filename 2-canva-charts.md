@@ -28,6 +28,11 @@ Now that you have a title for your infographic, you start to add some facts and 
   - Change the text below the graph to **15% Less Stress**
   - Delete the text box that is unused.
 
+4. **Add another chart**
+  - Go back into **Elements** and **Charts** and scroll down to find **Infographics Charts** and then click on **See all**.
+  - There are some useful charts for infographics and research posters in this category (the Pictogram charts are fun) but this example we are going to use the Progress Dial. Click and drag it over into your design. \
+  - Change the Percentage to 43, and adjust the Line Weight to a thickness you prefer. Change the colour using the menu options at the top.
+
 
 Great Job! You are ready to move on to the next activity
 
