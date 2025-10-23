@@ -33,10 +33,10 @@ Let’s start to create an infographic using a Canva template. Remember that you
     <img src="images//info03c.png" style="float:right;width:300px;" alt="Elements menu">    <br><br>
 4. Rearrange the layers to make sure your objects and text are in the order you want them to be:
     -Right click on each object or text box and click on Layer and choose an option from the menu (e.g., Send Backward) to change the ordering. The text should be the top layer.
-     <img src="images//info03.png" style="float:right;width:300px;" alt="Layers menu">    <br><br>
+   
 6. Enter the title text:
     -  **Double click** on the text at the top of the graphic, “Plant-A-Tree's”, and replace the text with, “**Can Short Meditation Benefit Beginners?**” (see photo).
-    -  Drag down the green text “Help Plant 2 Million Trees” and change it to “**With 13 minutes per day:**”
+    -  Drag down the green text “Help Plant 2 Million Trees” and change it to “**With 13 minutes per day:**”   <img src="images//info03.png" style="float:right;width:300px;" alt="Layers menu">    <br><br>
 7. Use the text editing tools in the menu bar across the top of the software to adjust the text as needed:
    - Increase or decrease the text size to fit
    - Change the text alignment
