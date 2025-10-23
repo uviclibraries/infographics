@@ -10,9 +10,9 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 
 1. **Searching for graphics**:
   - Click on **Elements** in the left toolbar and type in the upper search bar “**lightbult**”. Look for a lightbulb that is simple and fits in well with the graphic style of the rest of the infographic. 
-  - Click on the circle colour icons in the top toolbar to bring up the colour palette (see below).![Colour palette](/images/infographics-graphics-01.png)<br> Choose colours that suit the rest of the design.
+  - Click on the circle colour icons in the top toolbar to bring up the colour palette. <br> Choose colours that suit the rest of the design.
     
-  <img src="images//infographics-graphics-07.png" style="float:right" alt="45% better mood and 15% better short term memory graphics"><br>
+  <img src="images//info10.png" style="float:right" alt="15% better short term memory graphic"><br>
   
   - Use text boxes to **add the text** below your graphic:
       - 15% better short term memory<br>
