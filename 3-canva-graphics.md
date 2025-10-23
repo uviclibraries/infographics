@@ -34,15 +34,13 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
 5. **Finishing Touches**:
   - Take a look at the overall image and notice any alignment or balance issues. Is the title over to one side? Is that really where I want the bird or that cloud? You can add little detail touches like pulling the bottom cloud forward (right click and **Bring to Front**) and making it larger so that it slightly overlaps the bottom square to create a sense of depth (see final example). 
 
-  <img src="images/info11.png" style="float:right;width:200px;height:500px;" alt="Complete infographic."> <br>
+  <img src="images/info11.png" style="float:right;width:300px;" alt="Complete infographic."> <br>
 6. **Exporting & Publishing**:
   - To save your new infographic so that you can publish it where you want, click on the white **Share** button on the top right of your browser, and then click the white **Download** menu item. Save your infographic file in a location on your hard drive where you can find it later.
   - Note: the PNG format is a good choice for a high-quality image you can use in a paper or post to social media. For poster printing, high-quality PDF is recommended.
 
 Great Job! See the Take Home sheet and Extra Skills Activity sheet to build upon what you’ve learned here.
 
-Below is an example of a Canva poster with a QR code and bit.ly (link is now closed/ deleted but shows you the idea!)
-<img src="images//infographics-graphics-16.gif" style="margin-left:20px;width:300px;" alt="Example with QR code."><br>
 
 <script>  
 
