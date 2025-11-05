@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Bar Charts & Text
-<img src="images//infographics-charts-01.png" style="float:right;width:180px;height:380px;" alt="Infographics image">
+<img src="images/Can_Meditation_Benefit_Beginners_Screenshot.png" style="float:right;width:180px;height:380px;" alt="Infographics image">
 
 Now that you have a title for your infographic, you start to add some facts and graphics below it. If you have any questions, please ask, and don’t forget to have fun!
 
