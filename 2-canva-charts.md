@@ -21,8 +21,7 @@ Now that you have a title for your infographic, you start to add some facts and 
   - While the Chart is selected, click on the **blue circle colour icon** in the top centre menu next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same colours in the infographic. In this workshop example, we chose the colours of the tree bark to have the chart stand out against the green background.
     <img src="images/info08.png" style="float:right;width:350px;" alt="editing toolbar">
   - Click on the **Edit** button to bring up the grid in the left sidebar, where you can fill in the information for your bar graphs, and the graph will automatically update. You can enter: **“Meditators” 39.2, and “Control Group” 46.2** for Items 1 and 2, and delete Items 3 and 4 and the numbers in the columns next to them.
-   <img src="images//info08b.png" style="margin-left:10px;width:400px;" alt="blue bar graph resized with titles">
-
+   <img src="images/info08b.png" style="float:right; width:400px; margin-left:20px;" alt="graph">
 
 3. **Add description text**:
   - Change the text below the graph to **15% Less Stress**
@@ -30,7 +29,7 @@ Now that you have a title for your infographic, you start to add some facts and 
 
 4. **Add another chart**
   - Go back into **Elements** and **Charts** and scroll down to find **Infographics Charts** and then click on **See all**.
-  - There are some useful charts for infographics and research posters in this category (the Pictogram charts are fun) but this example we are going to use the Progress Dial. Click and drag it over into your design. \
+  - There are some useful charts for infographics and research posters in this category (the Pictogram charts are fun) but this example we are going to use the Progress Dial. Click and drag it over into your design. 
   - Change the Percentage to 43, and adjust the Line Weight to a thickness you prefer. Change the colour using the menu options at the top.
 
 
