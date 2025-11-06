@@ -32,7 +32,7 @@ Let’s start to create an infographic using a Canva template. Remember that you
     - Additionally, you can decrease the transparency of the shape to allow the background graphics to show through by clicking on the Transparency menu item in the top bar menu and dragging the slider until you are satisfied.
     <img src="images//info03c.png" style="float:right;width:300px;" alt="Elements menu">    <br><br>
 4. Rearrange the layers to make sure your objects and text are in the order you want them to be:  
-    -**Right click** on each object or text box and click on *Layer* and choose an option from the menu (e.g., Send Backward) to change the ordering. The text should be the top layer.
+     - **Right click** on each object or text box and click on *Layer* and choose an option from the menu (e.g., Send Backward) to change the ordering. The text should be the top layer.
    
 5. Enter the title text:
     -  **Double click** on the text at the top of the graphic, “Plant-A-Tree's”, and replace the text with, “**Can Short Meditation Benefit Beginners?**” (see photo).
