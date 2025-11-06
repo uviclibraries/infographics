@@ -57,3 +57,4 @@ Great Job! You are ready to move on to the next activity of Bar Charts & Text
 </script>
 
 [NEXT STEP: Bar Charts and Text](2-canva-charts.html){: .btn .btn-blue }
+<br> <br>
