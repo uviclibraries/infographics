@@ -21,14 +21,14 @@ Now that you have a title for your infographic, you start to add some facts and 
    <img src="images//info07.png" style="float:right;width:350px;" alt="blue bar graph">
   - Click on **Elements** in the left toolbar. Scroll down to **Charts** and click on **See All**. Look for Bar Charts and again click on **See All**. Click on the blue upright Bar graph. 
   - While the Chart is selected, click on the **blue circle colour icon** in the top centre menu next to the **Edit** button. This will open up your colour palette. You want to change the chart to the same colours in the infographic. In this workshop example, we chose the colours of the tree bark to have the chart stand out against the green background.
-    <img src="images/info08.png" style="float:right;width:350px;" alt="editing toolbar">
+  <img src="path/to/your/image.png" alt="alt text for image" align="right" width="200" />
   - Click on the **Edit** button to bring up the grid in the left sidebar, where you can fill in the information for your bar graphs, and the graph will automatically update. You can enter: **“Meditators” 39.2, and “Control Group” 46.2** for Items 1 and 2, and delete Items 3 and 4 and the numbers in the columns next to them.
 
  <br>
     
    <img src="images/info08b.png" style="float:right; width:400px; margin-left:20px;" alt="graph">
 
-<br>
+   
 
 3 **Add description text**:
   - Change the text below the graph to **15% Less Stress**
