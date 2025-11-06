@@ -23,6 +23,11 @@ Now that you have a title for your infographic, you start to add some facts and 
   - Click on the **Edit** button to bring up the grid in the left sidebar, where you can fill in the information for your bar graphs, and the graph will automatically update. You can enter: **“Meditators” 39.2, and “Control Group” 46.2** for Items 1 and 2, and delete Items 3 and 4 and the numbers in the columns next to them.
    <img src="images/info08b.png" style="float:right; width:400px; margin-left:20px;" alt="graph">
 
+
+
+
+
+
 3. **Add description text**:
   - Change the text below the graph to **15% Less Stress**
   - Delete the text box that is unused.
