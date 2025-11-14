@@ -16,7 +16,7 @@ Let’s start to create an infographic using a Canva template. Remember that you
 2.  In the search field in the middle of the Canva home screen, type **tree planting infographic** and press the **Enter key** or click on the arrow button.
     - Find the template pictured in the screenshots in this lesson (the first result in our search) and then click on the **Customize This Template** button in the popup window.
     - This exercise will use the template in the example to the right and put facts and statistics from [this journal article on meditation](https://bit.ly/dsc-infographic-meditate){:target="_blank"} into the template in the form of graphics and text. If you decide to use a different template, please note that the instructions will differ from the template that you choose.
-    <img src="images//info00b.png" alt="alt text for image" align="right" width="200" /> 
+    <img src="images//info00b.png" alt="alt text for image" align="right" width="250" /> 
    <br><br>
 3. Start editing the template and change the graphics:
     - Delete the tree and the striped rectangle behind the title text by clicking on them and pressing **Delete** on your keyboard
