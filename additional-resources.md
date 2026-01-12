@@ -14,6 +14,7 @@ Where to get high-resolution Creative Commons licensed photos and clip art?
    -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
    -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"} (imeages & clip art)
    -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+   -   [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
 
 ## Faculty tips & Rubrics for assignments 
 - [Sample inforgraphic rubric](https://ecampusontario.pressbooks.pub/app/uploads/sites/1660/2022/01/Sample-Infographic-Rubric_final.docx) from eCampusOntario (DOC)
