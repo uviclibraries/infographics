@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6 - Indigenous Pedagogy Infographic
+title: 6-Indigenous Pedagogy Infographic
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
