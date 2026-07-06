@@ -23,7 +23,7 @@ Here are a few added Canva skills and tip to expand your knowledge:
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/infographics-extra-03.gif" style="width:700px;">
+    <img src="images/infographics-extra-08.gif" style="width:700px;">
     </div>
 
 2. **Tips for searching for clipart in Canva**:
