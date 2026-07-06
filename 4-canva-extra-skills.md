@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 Here are a few added Canva skills and tip to expand your knowledge:
 <img src="images//infographics-extra-01.png" style="float:right;width:200px;" alt="More button with icon options"> 
 
-1. **Add a photo to your project using Canva’s Pixabay option**:
+1. **Add a photo to your project using [Unsplash](https://unsplash.com/)**:
   - Click on the black More button on the bottom of the left navigation bar (see photo).
   - Click on the green Pixabay icon.
   - In the search box that appeared at the top, type in a keyword for your search, and press Enter. Note: all Pixabay photos are free for commercial use with no attribution required. If attribution is required for your project, you can find details by mousing over the image in the search results and clicking on the three dots that appear in the upper right corner of each image (see photo).<img src="images//infographics-extra-02.png" style="float:right;width:200px;height:180px;" alt="More button with icon options"> 
