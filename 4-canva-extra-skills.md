@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Extra Skills with Canva
 Here are a few added Canva skills and tip to expand your knowledge:
-<img src="images//infographics-extra-01.png" style="float:right;width:200px;" alt="More button with icon options"> 
+<img src="images//infographics-extra-09.png" style="float:right;width:200px;" alt="More button with icon options"> 
 
 1. **Add a photo to your Canva project using [Unsplash](https://unsplash.com/)**:
   - Open Unsplash in your web browser.
