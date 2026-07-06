@@ -21,8 +21,6 @@ Here are a few added Canva skills and tip to expand your knowledge:
   - Grab a round, white handle at one of the corners of the photo to resize the image while maintaining aspect ratio.
   - To crop the image, hold down the shift key while dragging the round corner handles. Once the image is cropped down to the size you want, you can also double click on it and drag the image around inside the cropped window to get it situated the way you want
 
-### In the search box that appeared at the top, type in a keyword for your search, and press Enter. Note: all Pixabay photos are free for commercial use with no attribution required. If attribution is required for your project, you can find details by mousing over the image in the search results and clicking on the three dots that appear in the upper right corner of each image (see photo).<img src="images//infographics-extra-02.png" style="float:right;width:200px;height:180px;" alt="More button with icon options"> 
-
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/infographics-extra-03.gif" style="width:700px;">
