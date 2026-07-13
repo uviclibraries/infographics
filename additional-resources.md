@@ -5,18 +5,17 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Infographics with Canva Resources
-Where to get high-resolution Creative Commons licensed photos and clip art? 
-   -   [Unspash](https://unsplash.com){:target="_blank"} (images)
-   -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
-   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
-   -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Commons:Free_media_resources/Drawing){:target="_blank"} (clip art)
-   -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"} (clip art)
-   -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
-   -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"} (imeages & clip art)
+## Resources
+    -   [Unsplash for Education Collections](https://unsplash.com/@unsplashforeducation/collections){:target="_blank"} (photos, art scans, scientific imagery, and more)
+   -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
+   -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
+   -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
+   -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
    -   [Creative Commons image search](https://search.creativecommons.org/){:target="_blank"} (images)
    -   [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
-   -   [Colour Contrast Checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}
+   -   [WebAIM Colour contrast checker for accessibility](https://webaim.org/resources/contrastchecker/){:target="_blank"}
+   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (AI image generator - 3 images only for free version)
+
 
 ## Faculty tips & Rubrics for assignments 
 - [Sample inforgraphic rubric](https://ecampusontario.pressbooks.pub/app/uploads/sites/1660/2022/01/Sample-Infographic-Rubric_final.docx) from eCampusOntario (DOC)
@@ -26,7 +25,7 @@ Where to get high-resolution Creative Commons licensed photos and clip art?
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- Dani K. Johnson - 
+- Dani K. Johnson 
 - [Rich McCue](https://richmccue.com/){:target="_blank"}
 - Brittany Johnson -animated Gifs 
 
