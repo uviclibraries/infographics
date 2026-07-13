@@ -7,7 +7,7 @@ nav_order: 10
 
 ## Resources
 
-    -  
+
    -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
    -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
    -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
