@@ -14,7 +14,7 @@ nav_order: 10
    -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
    -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
    -   [Creative Commons image search](https://search.creativecommons.org/){:target="_blank"} (images)
-   -   [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+   -   [Creative Commons video search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
    -   [WebAIM Colour contrast checker for accessibility](https://webaim.org/resources/contrastchecker/){:target="_blank"}
    -   [Create Biology figures](http://BioRender.com){:target="_blank"} (AI image generator - 3 images only for free version)
 
