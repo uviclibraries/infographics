@@ -9,6 +9,7 @@ nav_order: 10
 
 
    -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
+   -   [Unsplash for Education collections](https://unsplash.com/@unsplashforeducation/collections){:target="_blank"} (photos, scientific images, art scans, etc)
    -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
    -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
    -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
