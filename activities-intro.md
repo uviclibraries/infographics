@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Paced Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Introduction for Self-Paced Learners
 
 Please review the following links:
 
