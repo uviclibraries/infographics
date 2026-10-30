@@ -15,11 +15,11 @@ parent: Workshop Activities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_2LLXnUdUIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Typography](https://youtu.be/sByzHoiYFX0){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sByzHoiYFX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- Design inspiration - infographics [(Pinterest board)](http://bit.ly/2OHCmsG){:target="_blank"}
+- Design inspiration - infographics [(Pinterest board)](https://ca.pinterest.com/canva/design-inspiration-infographics/){:target="_blank"}
 - [TED Talk - The beauty of data visualization](https://youtu.be/5Zg-C8AAIGg){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Zg-C8AAIGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- 15 easy steps to design an infographic from scratch [(article)](http://bit.ly/37VuWK8){:target="_blank"} 
-- 40 complex topics explained by infographics [(good examples)](http://bit.ly/2Y8nlTH){:target="_blank"} 
+- 15 easy steps to design an infographic from scratch [(article)](https://www.canva.com/learn/create-infographics/){:target="_blank"} 
+- 40 complex topics explained by infographics [(good examples)](https://www.canva.com/learn/best-infographics/){:target="_blank"} 
 
 ## Resources:
 - Professional level, diverse, and inclusive resource for free stock photography and video: [Pexels](https://www.pexels.com){:target="_blank"}
