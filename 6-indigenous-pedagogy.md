@@ -61,7 +61,7 @@ Tip: Change the colour of your icon to a colour in your template's colour palett
    <img src= "images/ElementsAdded.png" style="float:right;width:200px; margin-right:10px;">
 
 9. Add your QR code 
--Copy this link to a description of Indigenous pedagogies: https://bit.ly/dsc-pt
+-Copy this link to a description of Indigenous pedagogies: https://uviclibraries.github.io/sketchnoting/indigenous-pedagogy-article.html
 -Go to QR Code Generator on Canva by clicking on Apps on the left hand side and then searching QR Code. Select the one that is just called QR Code and copy the link from above to generate a QR code.
 -Drag it onto the bottom left open space of the infographic.
 
