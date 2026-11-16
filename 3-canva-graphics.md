@@ -28,7 +28,7 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - Type **QR Code** into the search field and then press enter on your keyboard.
   - Click on the black and white **QR Code** icon in the top left of the grid of search items and then click on the Open button that will appear.
   <img src="images/info12.png" style="float:right;width:300px;" alt="QR code"> 
-  - Paste your shortened Bitly URL - https://bit.ly/dsc-infographic-meditate - into the while field that appears, and then click on the teal **Generate code** button.
+  - Paste your shortened Bitly URL - **https://bit.ly/dsc-infographic-meditate** - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
 
 5. **Finishing Touches**:
