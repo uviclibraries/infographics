@@ -64,7 +64,6 @@ When you get into the individual image page, the image you’ve chosen will have
   ![Copy button Bitly shortener](/images/infographics-extra-07.png)
 
   - Go back to your Canva tab in your web browser and paste in: bit.ly/your-short-url-here (make sure to delete the leading https:// as it’s not needed here (see the top of the previous page for an example).
-    - _Note: bit.ly also allows you to create custom links if you want._
 
 Great Job!
 
