@@ -22,21 +22,19 @@ Now that you have a title and a chart in your infographic, we’ll now add some 
   - Make sure you save a little space at the bottom for a QR code.
  
 3. Add your source:
-  - Enter the URL for the source of this information at the bottom: [bit.ly/dsc-infographic-meditate](https://bit.ly/dsc-infographic-meditate){:target="_blank"}
+  - Enter the URL for the source of this information at the bottom: [https://bit.ly/dsc-infographic-meditate](https://bit.ly/dsc-infographic-meditate){:target="_blank"}
 4. Create a QR code with the short Bitly URL (how to create your own bit.ly URL is in the Bonus Skills activity #4):
   - Click on the black **Apps** button on the bottom of the left navigation bar (see image).
   - Type **QR Code** into the search field and then press enter on your keyboard.
   - Click on the black and white **QR Code** icon in the top left of the grid of search items and then click on the Open button that will appear.
   <img src="images/info12.png" style="float:right;width:300px;" alt="QR code"> 
-  - Paste your shortened Bitly URL - (https://bit.ly/dsc-infographic-meditate){:target="_blank"} - into the while field that appears, and then click on the teal **Generate code** button.
+  - Paste your shortened Bitly URL - https://bit.ly/dsc-infographic-meditate - into the while field that appears, and then click on the teal **Generate code** button.
   - Move the QR code that appeared on your infographic to the bottom right corner and resize it to fit the space available.
 
 5. **Finishing Touches**:
   - Take a look at the overall image and notice any alignment or balance issues. Is the title over to one side? Is that really where I want the bird or that cloud? You can add little detail touches like pulling the bottom cloud forward (right click and **Bring to Front**) and making it larger so that it slightly overlaps the bottom square to create a sense of depth (see final example). 
 
-
 <img src="images/info11.png" alt="Meditation infographic" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-
 
 6. **Exporting & Publishing**:
   - To save your new infographic so that you can publish it where you want, click on the white **Share** button on the top right of your browser, and then click the white **Download** menu item. Save your infographic file in a location on your hard drive where you can find it later.
